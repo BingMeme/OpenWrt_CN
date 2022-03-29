@@ -1,4 +1,4 @@
-[返回上一页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/MyFanFan.html)         
+[返回上一页](./MyFanFan.md)         
 
 # 服务器测试报告: 日本 东京都 so-net.ne.jp        
 ![](./MyFanFan/1.png)     
@@ -14,5 +14,8 @@
 ![](./MyFanFan/11.png)    
 ![](./MyFanFan/12.png)    
 ![](./MyFanFan/13.png)    
-![](./MyFanFan/14.png)    
+![](./MyFanFan/14.png)       
+
+
+
 			                 
