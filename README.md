@@ -1,6 +1,8 @@
 # OpenWrt_CN_antiGFW | OpenWrt_中国大陆_反防火长城          
 ![Logo](https://user-images.githubusercontent.com/73426989/151594301-448d5af3-f2cc-4ee1-83d8-6c501f4b57c6.png)           
-作者在2022.03.29.18:50来查看过博客           
+* 作者在 `2022.03.29.18:50` 来查看过博客
+* 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
+* 也欢迎您将此博客地址分享给任何有需要的人                            
 *                                    *                                          *                                             *                                  *         
 ## OpenWrt_Pro专区    
 
