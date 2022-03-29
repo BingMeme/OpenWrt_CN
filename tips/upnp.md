@@ -4,4 +4,4 @@
 
 附：进行以上操作后建议重启下固件！                    
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)                    
+[返回主页](../README.md)                    
