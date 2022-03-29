@@ -150,8 +150,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [查询IP地址](http://www.ip111.cn)     
 * [ip反查绑定过的域名](https://tools.ipip.net/ipdomain.php)      
 * [GitHub各项服务状态](https://www.githubstatus.com)     
-* [主流网站的可用状态](https://downdetector.com)        
-* [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)       
+* [主流网站的可用状态](https://downdetector.com)          
 * [孤儿网络昵称集合](https://github.com/boduoyejieyi666/NMSL_Nicknames/blob/main/NMSL_Nicknames)
 *                                    *                                          *                                             *                                  *         
 ## 常用命令、操作区
