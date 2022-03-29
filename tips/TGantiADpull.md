@@ -7,6 +7,6 @@
 设置>隐私和安全>群组，选成“我的联系人”，保存退出。                      
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)
+[返回主页](../README.md)
 
 
