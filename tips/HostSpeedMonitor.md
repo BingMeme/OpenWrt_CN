@@ -28,6 +28,6 @@ iftop -i br-lan
 第三列是精确的数值显示，三个数, 分别表示最近的2s, 10s, 40s的平均流量。             
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)           
+[返回主页](../README.md)           
 
 
