@@ -7,7 +7,7 @@
 3.当你日常使用想避免BT流量走了代理，请把TCP转发设置为“常用的”                 
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)         
+[返回主页](../README.md)         
 
 
 
