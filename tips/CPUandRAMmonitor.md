@@ -26,6 +26,6 @@ htop本身内存占用也仅0.2%，而netdata实时监控内存占用1.4%而且�
 通过htop也可以看到哪些不用却在开机默认运行的系统资源开销也很大的软件，不必需的可以移除此软件                   
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)             
+[返回主页](../README.md)             
 
 
