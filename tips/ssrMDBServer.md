@@ -20,5 +20,5 @@
 自己用就够了，家用宽带上行就30Mbps，别想着卖给留学生开回国机场了。。。                 
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)                
+[返回主页](../README.md)                
 
