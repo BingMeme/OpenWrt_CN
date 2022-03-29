@@ -12,5 +12,5 @@
 * 本教程无脑URL查询，万能               
 * 填完所有配置后再启动（内一个外一个启动开关）             
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)               
+[返回主页](../README.md)               
 
