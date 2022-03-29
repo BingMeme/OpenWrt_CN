@@ -260,7 +260,7 @@ git pull
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议(博客主是非计算机专业的业余玩家，故而博客内容难免有错误疏漏，您可以指正，感激不尽))      
 * [赞助此博客更新维护](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan/support.md)             
-*                                    *                                          *                                             *                                  *         
+*                                    *                                          *                                             *                                  *      
 ![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)                   
 
 
