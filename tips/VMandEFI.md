@@ -4,4 +4,4 @@
 * 主板设置了only uefi可能导致搜不到固态硬盘，设置成uefi&legacy模式就可以了。              
 * 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)         
+[返回主页](../README.md)         
