@@ -68,7 +68,7 @@
 * [不保留配置上传升级固件](./tips/Upgrade.md) 
 * [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases) （msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
 * [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)   
-* [虚拟机镜像转换starwindconverter](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/releases/tag/v2022.02.13-starwindconverter)                 
+* [虚拟机镜像转换starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)                    
 * [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)   
 *                                    *                                          *                                             *                                  *         
 ## 教程区        
