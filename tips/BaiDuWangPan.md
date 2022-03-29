@@ -21,7 +21,8 @@ baidupcsweb是开源程序，大神自然自己审计有无窃取cookies后门�
 最后，这个程序还是建议开了超级会员的人用，没花钱的小心黑号没地方哭。                
 顺便分享下我用的百度网盘资源分享黑产地：[低调使用](https://t.me/joinchat/AAAAAEhkwtQjONQXe--Z8g)         
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)                
+
+[返回主页](../README.md)                
 
 
 
