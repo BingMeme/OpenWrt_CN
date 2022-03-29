@@ -1,9 +1,10 @@
-[回到主页面](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)             
+![1](https://user-images.githubusercontent.com/73426989/121070198-ff142e80-c800-11eb-9a44-0418e3ffffd5.png)            
 
-# VPS(虚拟专用服务器)          
-* [点击这里的注册链接](https://www.tokyonline.com/aff.php?aff=2)       
-* VPS是需要时间进货的，刚起步可能买的人较多，没货的话请耐心等待补货哦❤             
-![1](https://user-images.githubusercontent.com/73426989/121070198-ff142e80-c800-11eb-9a44-0418e3ffffd5.png)              
+# VPS(虚拟专用服务器)           
+
+* [注册链接](https://www.tokyonline.com/aff.php?aff=2)                         
+      
+* VPS是需要时间进货的，刚起步可能买的人较多，没货的话请耐心等待补货哦❤                 
 * 记住，不怕麻烦的话一定要月付，除非你用了很久后感觉信任了可以买久点。虽然我和老板比较熟悉，但是大家多留心没坏处。                                  
 * 逢年过节会打折        
 * 客服及老板都出生在中国，生活过相当一段时间，中文交流不是问题，工单或者对话系统放心问问题        
@@ -43,4 +44,9 @@ IIJ - Pro
 400 Mbps           
 BT/PT・銀行ウェブ禁止          
 
-[如果有机场需求点击这里](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/youlian/jichang.html)             
+[如果有机场需求点击这里](./youlian/jichang.md)               
+
+
+[回到主页面](./README.md)         
+
+
