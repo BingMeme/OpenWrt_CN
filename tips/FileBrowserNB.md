@@ -11,7 +11,7 @@
 
 ![1](https://user-images.githubusercontent.com/73426989/150644683-afedca84-9179-404d-92c3-578accf21219.jpg)        
 
-你的固件有automount模块就会自动挂载，如果没有就需要 [手动挂载](https://BingMeme.github.io/OpenWrt_CN/tips/ManullyGuaZai.html)   
+你的固件有automount模块就会自动挂载，如果没有就需要 [手动挂载](https://bingmeme.github.io/OpenWrt_CN/tips/ManullyGuaZai.html)   
 
 再如图二：                
 
@@ -32,4 +32,4 @@
 插好后重启一次即可恢复挂载到sda1，或者手动挂载确保不变动一劳永逸。                  
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)       
+[返回主页](../README.md)       
