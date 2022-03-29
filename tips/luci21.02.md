@@ -6,7 +6,7 @@
 ![2](https://user-images.githubusercontent.com/73426989/154074743-a99c1959-107d-4b1b-9ba2-299b0dde6dbb.png)
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)              
+[返回主页](../README.md)              
 
 
 
