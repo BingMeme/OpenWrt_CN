@@ -1,9 +1,8 @@
-[回到主页面](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)                            
+![1](https://user-images.githubusercontent.com/73426989/121070198-ff142e80-c800-11eb-9a44-0418e3ffffd5.png)        
 
-老牌 技术流 奈飞机场（广义VPN/翻墙梯子）“Mielink”:          
+老牌 技术流 奈飞机场（广义VPN/翻墙梯子）“Mielink”:        
+
 [注册链接](http://mielink-invite.com/register?aff=qinqin)        
-
-![1](https://user-images.githubusercontent.com/73426989/121070198-ff142e80-c800-11eb-9a44-0418e3ffffd5.png)       
 
 * 有回国/出国/企业团队定制，三种套餐，Trojan协议为主，首批升级Trojan覆盖的机场之一，专线用SSR协议，V3解锁IPLC专线，V4解锁IEPL专线。               
 * 解锁各地区奈飞等流媒体，顶级套餐长期赠送奈飞HBO等共享账号。      
@@ -16,4 +15,7 @@
 * 2020.12.30 Mielink v3/v4等级节点测速图（为了保证全体用户的体验不被个别用户极限占用所破坏，故有限速）:                      
 ![](./1.jpg)  
 
-[如果有VPS需求点击这里](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/MyFanFan.html)      
+[如果有VPS需求点击这里](../MyFanFan.md)      
+
+
+[回到主页面](../README.md)               
