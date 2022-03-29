@@ -3,7 +3,7 @@
 ## 提醒：
 * Passwall的网站分流模块虽然名字是“Xray分流”，但不是很多小白理解的字面意思上的“只能分流Xray内核支持的协议的节点”，这个认识是完全错误的。Passwall可以分流ssr等任何协议（只要是能添加到passwall节点列表的）的节点，不要再传什么只支持v2ray节点谣言了。                    
 * 分流一般前提是你有两个或以上的节点已经填好了在你的节点列表中（一般都是机场订阅一堆节点在里面）                           
-* 部分半吊子作者编译的固件可能没有勾选进geodata等初始规则库，导致首次使用passwall网站分流模式的用户启动失败，解决办法请看：[这里](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/tips/passwallURLfenliuFail.html)
+* 部分半吊子作者编译的固件可能没有勾选进geodata等初始规则库，导致首次使用passwall网站分流模式的用户启动失败，解决办法请看：[这里](./passwallURLfenliuFail.md)
 
 ## 建立分流总节点
 目前passwall 节点列表里 出厂会自带一个已经建立好的“分流总节点”，如下图：       
@@ -19,7 +19,7 @@
 如上图，TCP节点选中你的分流总节点即可。           
 
 ## 分流总节点的编辑
-* paswall-基本设置-模式-TCP/UDP代理模式 的设置是决定流量是否要被passwall代理，然后再由 分流总节点 或 你设置的 单一节点 来处理决定走什么线路代理。所以，基本设置-模式-TCP/UDP代理模式 中的 代理模式 一般是第一步，应该要设置的（但是！passwall的 访问控制 优先级高于 基本设置-模式-TCP/UDP代理模式，你可以在访问控制里随意控制某个设备的代理模式及线路，具体可见：[这里](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/tips/passwallTeDingSheBeiQuanJuDaiLi.html) ）。    
+* paswall-基本设置-模式-TCP/UDP代理模式 的设置是决定流量是否要被passwall代理，然后再由 分流总节点 或 你设置的 单一节点 来处理决定走什么线路代理。所以，基本设置-模式-TCP/UDP代理模式 中的 代理模式 一般是第一步，应该要设置的（但是！passwall的 访问控制 优先级高于 基本设置-模式-TCP/UDP代理模式，你可以在访问控制里随意控制某个设备的代理模式及线路，具体可见：[这里](./passwallTeDingSheBeiQuanJuDaiLi.md) ）。    
 * 如上图，分流总节点自带了若干个常用的种类网站的规则，AD是广告，BT是种子，China是中国大陆境内网站和IP，需要哪个网站走什么节点，直接去选就行了。
 * 默认 节点是指当你访问的网站的域名或IP都未被上面的任何一个分流规则匹配到，那么这个网站将会走 默认 节点代理访问。
 * 默认前置代理 节点是套娃使用方式，意思是先通过这个 默认前置代理 的节点线路访问到 默认 节点的入口，再被 默认 节点代理访问到境外网站。此功能常用于需要靠一个访问速率快且稳定的前置代理节点去加速一个你刚需的国家的IP但是直连很慢的节点，简言之就是套娃加速一个你不得不用的地区的节点。
@@ -46,7 +46,7 @@
 
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)        
+[返回主页](../README.md)        
 
 
 
