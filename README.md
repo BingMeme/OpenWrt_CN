@@ -3,42 +3,42 @@
 * 作者在 `2022.03.29.18:50` 来查看过博客
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
 * 也欢迎您将此博客地址分享给任何有需要的人                            
-                                    *                                          *                                             *                                  *         
+---------------------------------------------       
 ## OpenWrt_Pro专区    
 
 支持：x64 * doornet1 * doornet2 * neo3 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * g4c * orangepi-r1-plus * orangepi-r1-plus-lts          
   
 * [OpenWrt_Pro](https://t.me/openwrt_p)
-                                    *                                          *                                             *                                  *         
+---------------------------------------------        
 ## OpenWrt_mini专区             
 
 支持：x64 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * orangepi-r1-plus * orangepi-r1-plus-lts          
 
 * [OpenWrt_mini](https://t.me/openwrt_m)         
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 ## OpenWrt_Air专区        
 
 支持：ax6 * ax3600 * ac2100 * k2p * 新3 * acrh17 * 竞斗云2
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
-                                    *                                          *                                             *                                  *         
+---------------------------------------------    
 ## ImmortalWrt官方专区
 
 支持：所有主流设备（最精简固件基础上自由安装ipk）          
 
 * [ImmortalWrt官方](./ImmortalWrtSource.md)                         
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 ## eSir专区
 
 支持：x64等（经典高大全等）         
 
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                   
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 ## 手贱提醒区       
 
 * 不要保留配置刷固件（包括先备份再恢复备份的大聪明）   
 * 不要点击passwall组件更新v2ray内核什么的                   
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 ## telegram专区       
 * [telegram官方下载地址](https://telegram.org/apps)    
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
@@ -47,7 +47,7 @@
 * [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
 * [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
 * [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)          
-                                    *                                          *                                             *                                  *         
+---------------------------------------------   
 ## 配套工具区    
 
 ### 容器相关
@@ -61,8 +61,9 @@
 * [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)      
 * [cn_windows_7_professional_with_sp2_x64_dvd_2020_01_14](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EauYlQmCtWFJsa7eU7k6IogBWUW9eq7vtkHn0YRU_Ic2WA?e=hkIeVL)        
 
-——Lean的QQ群：297253733               
-                                    *                                          *                                             *                                  *         
+——Lean的QQ群：297253733      
+
+---------------------------------------------        
 ### 固件全新安装升级、不保留配置上传升级相关
 
 * [openwrt固件常见文件格式的选择](./tips/CHOOSE.md)       
@@ -72,7 +73,7 @@
 * [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)   
 * [虚拟机镜像转换starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)                    
 * [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)   
-                                    *                                          *                                             *                                  *         
+---------------------------------------------      
 ## 教程区        
 
 ### passwall相关        
@@ -90,22 +91,22 @@
 ```
 http://192.168.5.1/cgi-bin/luci/admin/services/passwall/reset_config
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------    
 * 隐藏菜单方法，地址栏输入例：            
 ```
 http://192.168.5.1/cgi-bin/luci/admin/services/passwall/hide
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------      
 * 当你隐藏后想再次显示，地址栏输入例：                          
 ```
 http://192.168.5.1/cgi-bin/luci/admin/services/passwall/show
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------      
 * passwall芝麻开门命令（如果需要开门）：         
 ```
 touch /etc/config/passwall_show        
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------         
 ### ssrp相关      
 
 * [ssrp的分流如何开启](./tips/ssrpFenLiu.md)    
@@ -114,7 +115,7 @@ touch /etc/config/passwall_show
 ```
 echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```               
-                                    *                                          *                                             *                                  *         
+---------------------------------------------    
 ### 其他插件相关         
 
 * [ImmortalWrt 系统-软件包 安装插件](./JBipk.md)          
@@ -135,7 +136,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [WAN口丢失后重建](./tips/CreWAN.md)      
 * [WAN口灯不亮/WAN口无网络连接](./tips/WANfail.md)      
 * [自定义登陆界面背景](./tips/argonPic.md)        
-                                    *                                          *                                             *                                  *         
+---------------------------------------------   
 ## 其他区 
 
 * [清理windows系统下DNS缓存](./tips/clearDNS.md)  
@@ -154,42 +155,42 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)          
 * [孤儿网络昵称集合](https://github.com/BingMeme/NMSL_Nicknames/blob/main/NMSL_Nicknames)
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 ## 常用命令、操作区
 
 * 完全删除lede文件                
 ```
 rm -rf lede
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 * 清空回收站                                 
 ```
 sudo rm -rf ~/.local/share/Trash/*
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------    
 * Windows的HOSTS文件位置(当出现一些网页元素加载失败时可以尝试清空HOSTS规则)               
 ```
 C:\Windows\System32\drivers\etc
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------       
 * powershell中SSH连接路由器后台举例                 
 ```
 ssh root@192.168.2.1
 password
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------    
 * openwrt恢复出厂设置命令                      
 ```
 firstboot
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 * 修改LAN口IP                       
 ```
 vi /etc/config/network
 i
 :wq!
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------    
 * 默认root进入系统后添加普通用户          
 ```
 sudo useradd -m zhangsan -s /bin/bash
@@ -200,31 +201,33 @@ cd /home/zhangsan
 sudo apt-get update
 sudo apt-get install vim
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------    
 * 举例指定git拉取my-19.07分支           
 ```
 git clone -b my-19.07 https://github.com/Lienol/openwrt.git
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------  
 * 显示隐藏文件（.config）          
 ```
 ls -a 
 ```     
 或 
-Ctrl+H
-                                    *                                          *                                             *                                  *         
+Ctrl+H        
+
+---------------------------------------------  
 * git冲突，放弃本地修改，直接覆盖                    
 ```
 git reset --hard
 git pull
 ```
-                                    *                                          *                                             *                                  *         
+---------------------------------------------       
 ## 启示录区    
 
 * [万兆无线路由器，真的能跑万兆无线网吗？](https://sspai.com/post/71581)
 
-——少数派          
-                                    *                                          *                                             *                                  *         
+——少数派               
+
+---------------------------------------------  
 `* 远离二道宽带贩子，优选 电信/联通 > 移动 > 其他`      
 `* 换同端口速率的光猫基本没什么卵用，不是决定性因素`       
 `* 买一个高性能的路由器比什么都重要，新购路由优选 ARM > MIPS,翻墙去广告QOS有需求请尽量选择x86`        
@@ -236,16 +239,19 @@ git pull
 `* HWNAT 对小包（小于 128K) 不会有加速效果，而大部分游戏和 DNS 等都是小的 UDP 报文，这时候都靠 CPU 转发，x86 软路由有明显的转发性能优势`         
 `* 挨个检查客人手机里是否装了WiFi万能钥匙，发现的立马打死`        
 
-——Lean的QQ群：297253733         
-                                    *                                          *                                             *                                  *         
+——Lean的QQ群：297253733           
+
+---------------------------------------------    
 `*别买realtek网卡了，尤其是过千兆，RTL就更拉胯了，驱动天天炸，还是用bsd吧`
 
-——Nick Bot
-                                    *                                          *                                             *                                  *         
+——Nick Bot     
+
+---------------------------------------------     
 `*有很多人天天都在焦虑，怕没得到，怕寂寞`      
 
-——《士兵突击》
-                                    *                                          *                                             *                                  *         
+——《士兵突击》        
+
+---------------------------------------------   
 *佐大30岁的人生感悟*        
   *虽然我的人生充满了苦难，但一眨眼就到了30。30后，感觉自己变得更念旧和无力，因为自己已不再辉煌，所以一直追忆着25岁的自己。虽然知道这样无济于事，但是人毕竟需要一个心灵的慰藉，无论是真是假、是虚是实。       
   在大学时，我曾自诩是一位很有"思想"的人，对身边的人暗生讥讽，认为自己高人一等。现在看来，当年的我是多么的无知和不可一世，"独立思考”的人格谈何容易，很多时候我们只是父母思想的映射，如同提线木偶。我们的一言一行、一举一动都是父母长期影响下的结果，实际上只是父母思想的一部分拷贝。虽然决定来自于你自己的大脑，但思维模式没有跳出你父母的条条框框。   
@@ -254,14 +260,15 @@ git pull
   以前的我，表现地与世无争。现在看来，只是懦弱和无能的表现而已，并没有高尚到哪里去。在人的生存空间越来越受挤压的当下，你自己不去拼命争取没有人会帮你保留空间。这个世界就是那么残酷，你的敌人在宣告胜利的同时，还不忘给你滋上一泡尿。更令人痛心的是，提出滋你一身的人，恰好是你当年的"梦中情人"。人性这东西，是你一辈子都看不明白、琢磨不透的。           
   以前的我，遇到挫折和失败就会陷入过度自责中、反省当初的自己。现在看来，挫折和失败的隐患早在你出生时就已埋下，你所遭遇的挫折和失败只是爆发后的结果。你若不从根本上拔除身上的祸根，未来的你还会遭遇同样的惨剧。你还会因为不善于交际而吃人事的亏，你还会因为不善于搭讪而缺女人缘，你还会因为不懂人情世故而遭人排斥，悲剧还会一次次重演。*           
 
-——佐须之男        
-                                    *                                          *                                             *                                  *         
+——佐须之男     
+
+---------------------------------------------          
 ## About   
 
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议(博客主是非计算机专业的业余玩家，故而博客内容难免有错误疏漏，您可以指正，感激不尽))      
 * [赞助此博客更新维护](./MyFanFan/support.md)             
-                                    *                                          *                                             *                                  *      
+---------------------------------------------  
 ![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)                   
 
 
