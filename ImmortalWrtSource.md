@@ -20,6 +20,6 @@
 此页面消息同步自 [原地址](https://t.me/ctcgfw_openwrt_discuss/461245)     
 
 
-[返回主页](../README.md)          
+[返回主页](./README.md)          
 
 
