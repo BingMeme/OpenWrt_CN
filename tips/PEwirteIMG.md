@@ -1,6 +1,6 @@
 # PE写盘
 
-PE下兼容性较好的1.2版本DiskImg：[下载](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/releases/tag/v1.2-DiskImg)            
+PE下兼容性较好的1.2版本DiskImg：[下载](https://github.com/BingMeme/OpenWrt_CN_Releases/releases/download/DiskImg-v1.2/DiskImg.exe)            
 
 * PE中写入img到硬盘            
 * 软路由硬盘一般是0号位，实在不放心的话，可以在PE系统里：          
@@ -28,7 +28,7 @@ list disk
 
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)           
+[返回主页](../README.md)           
 
 
 
