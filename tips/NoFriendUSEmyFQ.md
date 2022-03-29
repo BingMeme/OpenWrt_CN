@@ -13,6 +13,6 @@
 「最新版本passwall已经砍掉根据IP这一选项了，因为IP变动的可能性大于Mac地址变动」        
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)                
+[返回主页](../README.md)                
 
 
