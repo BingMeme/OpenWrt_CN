@@ -6,5 +6,6 @@
 * 如果换了Chrome还是页面报错，那么请使用Chrome的隐私浏览模式访问后台页面。            
 * 如果仍然报错，那么就是固件问题了，找发布者对线骂死那个傻逼。      
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)             
+
+[返回主页](../README.md)             
 
