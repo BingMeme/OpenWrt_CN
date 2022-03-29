@@ -6,6 +6,6 @@
 如果你的固件没有这个菜单，那应该默认是允许从外网访问的，无需操心                 
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)                 
+[返回主页](../README.md)                 
 
 
