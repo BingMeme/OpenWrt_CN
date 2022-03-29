@@ -23,5 +23,5 @@
 未分享手机号码互相添加为联系人前，主动私聊对方需要谨慎，因为对方会有权限举报你骚扰，同样可能会导致TG官方无条件封禁你在公开群发言、主动私信非联系人。短期再犯时长叠加。             
 
 
-[返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)                
+[返回主页](../README.md)                
 
