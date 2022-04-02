@@ -81,6 +81,7 @@
 
 ### passwall相关        
 
+* [passwall的流程](https://github.com/xiaorouji/openwrt-passwall/discussions/1506#discussioncomment-1751550)(注意原文发布时间估算有效性)
 * [关于passwall的DNS问题](./tips/passwallDNS.md)     
 * [passwall+smartdns小肉鸡亲自推荐方案](https://github.com/xiaorouji/openwrt-passwall/discussions/1729#discussioncomment-2013027)     
 * [不希望任何人的设备连到我的openwrt路由下都可以翻墙](./tips/NoFriendUSEmyFQ.md)
