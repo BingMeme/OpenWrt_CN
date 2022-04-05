@@ -42,11 +42,6 @@
 
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                       
 
-## 手贱提醒区       
-
-* 不要保留配置刷固件（包括先备份再恢复备份的大聪明）   
-* 不要点击passwall组件更新v2ray内核什么的              
-             
 ## telegram专区             
 
 * [telegram官方下载地址](https://telegram.org/apps)    
