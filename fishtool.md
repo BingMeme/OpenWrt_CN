@@ -29,7 +29,7 @@ src-git small https://github.com/kenzok8/small
 
 ↑上面这是神秘网友kenzok8（eS..）复制揉合的插件库，各种插件可以说是应有尽有，多star和issue提建议可以促使作者积极更新 [小白福音](https://github.com/kenzok8/openwrt-packages) 。       
 
-↓下面这也是kenzokk8的揉合库，每日自动拉取各种上游插件最新源码，爱追新插件的用户可以选择此库编译（但是注意：由于是自动拉取未经过很多人编译测试，所以报错不通过的概率极大，无能力解决编译报错的建议您放弃使用 [小白福音激进版](https://github.com/kenzok8/small-package)）:          
+↓下面这也是kenzok8的揉合库，每日自动拉取各种上游插件最新源码，爱追新插件的用户可以选择此库编译（但是注意：由于是自动拉取未经过很多人编译测试，所以报错不通过的概率极大，无能力解决编译报错的建议您放弃使用 [小白福音激进版](https://github.com/kenzok8/small-package)）:          
 
 ```
 src-git small8 https://github.com/kenzok8/small-package
