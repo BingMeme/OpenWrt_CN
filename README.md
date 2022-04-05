@@ -28,7 +28,13 @@
 
 支持：所有主流设备（最精简固件基础上自由安装ipk）          
 
-* [ImmortalWrt官方](./ImmortalWrtSource.md)                             
+* [ImmortalWrt官方](./ImmortalWrtSource.md)                  
+
+## 天灵专区      
+
+支持：热门 硬路由/rockchip（QSDK360v6/ax6/r1sH5 ......）            
+
+* [天灵的个人频道](https://t.me/nanopi_r2s)             
  
 ## eSir专区
 
