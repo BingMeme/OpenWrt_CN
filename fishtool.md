@@ -8,18 +8,16 @@
 
 ## 选择op分叉主体         
 
-推荐：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) （建议默认分支）     
-
-备选1：[ImmortalWrt](https://github.com/immortalwrt/immortalwrt) （建议默认分支）       
-备选2：[Lienol/openwrt](https://github.com/Lienol/openwrt) (建议默认分支)        
-
-其他：        
-* [coolsnowwolf/openwrt-gl-ax1800](https://github.com/coolsnowwolf/openwrt-gl-ax1800)         
-
+推荐：          
+* [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) （建议默认分支）     
+备选：           
+* [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) （建议默认分支）                  
+* [Lienol/openwrt](https://github.com/Lienol/openwrt) (建议默认分支)             
+其他：         
+* [coolsnowwolf/openwrt-gl-ax1800](https://github.com/coolsnowwolf/openwrt-gl-ax1800)              
 
 ## 如果需要手动添加ssrp、passwall、openclash等各种丰富插件      
-
-注意：此插件库“不保证”所有插件适配所有版本LuCI，推荐coolsnowwolf/lede可确保最大程度兼容。       
+       
 在拉取的op分叉主体的源码的feeds.conf.default文件中添加：    
 
 ```
@@ -34,6 +32,8 @@ src-git small https://github.com/kenzok8/small
 ```
 src-git small8 https://github.com/kenzok8/small-package
 ```
+
+注意：以上插件库“不保证”适配所有版本的LuCI。推荐coolsnowwolf/lede可确保最大程度兼容。              
               
 ## 接下来三步走
 
