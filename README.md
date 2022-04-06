@@ -26,7 +26,7 @@
 
 ## ImmortalWrt专区
 
-支持：所有主流设备（最精简固件基础上自由安装ipk）          
+支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
 
 * [ImmortalWrt](./ImmortalWrtSource.md)                  
 
