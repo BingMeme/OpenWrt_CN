@@ -6,15 +6,17 @@
 * 您可以先查看coolsnowwolf/lede项目的 [编译说明](https://github.com/coolsnowwolf/lede#%E5%A6%82%E4%BD%95%E7%BC%96%E8%AF%91%E8%87%AA%E5%B7%B1%E9%9C%80%E8%A6%81%E7%9A%84-openwrt-%E5%9B%BA%E4%BB%B6) ，做到大概心中有数。     
 * 如果您有windows系统的电脑，且剩余硬盘空间差不多有200GB，那么建议您使用 [vmware workstation(非商用免费)](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html) 搭建虚拟机容器，然后选择在 [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/) 获取发行版ubuntu系统iso文件，然后在虚拟机容器中部署。        
 
-## 选择op分叉主体         
+## 选择op分叉主体                   
 
-推荐：                
-* [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) （建议默认分支）     
-备选：             
+推荐      
+* [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) （建议默认分支）           
+
+备选：           
 * [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) （建议默认分支）                  
-* [Lienol/openwrt](https://github.com/Lienol/openwrt) (建议默认分支)             
-其他：         
-* [coolsnowwolf/openwrt-gl-ax1800](https://github.com/coolsnowwolf/openwrt-gl-ax1800)              
+* [Lienol/openwrt](https://github.com/Lienol/openwrt) (建议默认分支)                
+       
+其他：        
+* [coolsnowwolf/openwrt-gl-ax1800](https://github.com/coolsnowwolf/openwrt-gl-ax1800)                       
 
 ## 如果需要手动添加ssrp、passwall、openclash等各种丰富插件      
        
