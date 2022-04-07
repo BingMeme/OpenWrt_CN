@@ -12,7 +12,7 @@
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) （建议默认分支）           
 
 备选：           
-* [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) （建议默认分支）                  
+* [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) （建议默认分支）                  
 * [Lienol/openwrt](https://github.com/Lienol/openwrt) (建议默认分支)                
        
 其他：        
