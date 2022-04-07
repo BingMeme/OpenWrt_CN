@@ -8,9 +8,9 @@
 
 ## 选择op分叉主体         
 
-推荐：          
+推荐：                
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) （建议默认分支）     
-备选：           
+备选：             
 * [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) （建议默认分支）                  
 * [Lienol/openwrt](https://github.com/Lienol/openwrt) (建议默认分支)             
 其他：         
