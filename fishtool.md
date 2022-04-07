@@ -8,7 +8,7 @@
 
 ## 选择op分叉主体                   
 
-推荐      
+推荐:               
 * [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) （建议默认分支）           
 
 备选：           
