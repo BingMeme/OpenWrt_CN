@@ -1,7 +1,7 @@
 # OpenWrt_CN_antiGFW | OpenWrt_中国大陆_反防火长城       
 
 * 作者在 `2022.04.03` 来查看过博客
-* 此博客的创建宗旨是：降低普通用户获取OpenWrt有价值信息的门槛、搭建高级用户交流的平台
+* 此博客的创建宗旨是：降低普通用户获取OpenWrt有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
 * 也欢迎您将此博客地址分享给任何有需要的人
 * 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）       
