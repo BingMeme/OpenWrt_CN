@@ -5,7 +5,14 @@
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
 * 也欢迎您将此博客地址分享给任何有需要的人
-* 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）       
+* 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）      
+* [telegram官方下载地址](https://telegram.org/apps)    
+* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
+* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
+* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)        
+* [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
+* [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
+* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                     
 
 ## OpenWrt_Pro专区    
 
@@ -42,16 +49,6 @@
 支持：x64等（经典高大全等）         
 
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                       
-
-## telegram专区             
-
-* [telegram官方下载地址](https://telegram.org/apps)    
-* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
-* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
-* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)        
-* [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
-* [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
-* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                
 
 ## 配套工具区    
 
