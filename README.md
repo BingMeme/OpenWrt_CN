@@ -12,7 +12,9 @@
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)        
 * [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
 * [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
-* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                     
+* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)               
+
+![杨幂](https://user-images.githubusercontent.com/73426989/162729078-87457e78-4d94-4b79-b6f5-8e8e961a76dd.gif)          
 
 ## OpenWrt_Pro专区    
 
@@ -254,21 +256,11 @@ git pull
 ## About   
 
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
-* [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)                                 
+* [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)         
+                           
+![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)                
 
 ## 友链 
 * [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)      
-* [笔记](https://qinqinleee.github.io/Note/)                 
-
-
-博客主是非计算机专业的业余玩家，故而博客内容难免有错误疏漏，您可以指正，感激不尽。                       
-
-
-![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)          
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1a3411e7AU&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-
+* [笔记](https://qinqinleee.github.io/Note/)                   
 
