@@ -266,7 +266,7 @@ git pull
 
 ![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)          
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1a3411e7AU&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1a3411e7AU&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
