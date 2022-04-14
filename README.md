@@ -236,6 +236,10 @@ git pull
 
 ——Lean的QQ群：297253733                   
 
+`* ipv6就是翻墙的毒瘤之一`         
+
+——shaka                   
+
 `* 别买realtek网卡了，尤其是过千兆，RTL就更拉胯了，驱动天天炸，还是用bsd吧`            
 `* *ray之类的带domain sniffer的，玩这些都是扯淡`
 
