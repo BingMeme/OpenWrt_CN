@@ -50,9 +50,9 @@
 
 支持：x64等（经典高大全等）         
 
-* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                       
+* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                        
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>         
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 配套工具区    
 
@@ -76,8 +76,10 @@
 * [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases) （msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
 * [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)   
 * [虚拟机镜像转换starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)                    
-* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)                    
-     
+* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)                      
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>   
+
 ## 教程区        
 
 ### 自行定制固件      
