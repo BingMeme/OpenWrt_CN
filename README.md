@@ -2,7 +2,7 @@
 
 ![杨幂](https://user-images.githubusercontent.com/73426989/162729078-87457e78-4d94-4b79-b6f5-8e8e961a76dd.gif)             
 
-* 作者在 `2022.04.10` 来查看过博客         
+* 作者在 `2022.04.15` 来查看过博客         
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
@@ -68,7 +68,9 @@
 * [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)      
 * [cn_windows_7_professional_with_sp2_x64_dvd_2020_01_14](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EauYlQmCtWFJsa7eU7k6IogBWUW9eq7vtkHn0YRU_Ic2WA?e=hkIeVL)        
 
-——Lean的QQ群：297253733                  
+——Lean的QQ群：297253733            
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1XU4y1P7Lb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
 
 ### 固件全新安装升级、不保留配置上传升级相关
 
