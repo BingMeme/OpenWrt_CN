@@ -68,6 +68,8 @@
 
 ——Lean的QQ群：297253733               
 
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+
 ### 固件全新安装升级、不保留配置上传升级相关
 
 * [openwrt固件常见文件格式的选择](./tips/CHOOSE.md)       
