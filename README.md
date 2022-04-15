@@ -1,4 +1,6 @@
-# OpenWrt_简中       
+# OpenWrt_简中     
+
+![杨幂](https://user-images.githubusercontent.com/73426989/162729078-87457e78-4d94-4b79-b6f5-8e8e961a76dd.gif)             
 
 * 作者在 `2022.04.10` 来查看过博客         
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
@@ -12,9 +14,7 @@
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)        
 * [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
 * [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
-* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)               
-
-![杨幂](https://user-images.githubusercontent.com/73426989/162729078-87457e78-4d94-4b79-b6f5-8e8e961a76dd.gif)          
+* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                 
 
 ## OpenWrt_Pro专区    
 
