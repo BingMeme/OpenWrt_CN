@@ -217,6 +217,8 @@ git reset --hard
 git pull
 ```             
 
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1sT4y1j7m2&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+
 ## 启示录区                     
 
 * [万兆无线路由器，真的能跑万兆无线网吗？](https://sspai.com/post/71581)                   
