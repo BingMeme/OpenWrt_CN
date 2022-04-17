@@ -2,7 +2,8 @@
 
 ![杨幂](https://user-images.githubusercontent.com/73426989/162729078-87457e78-4d94-4b79-b6f5-8e8e961a76dd.gif)             
 
-* 作者在 `2022.04.15` 来查看过博客         
+* 作者在 `2022.04.15` 来查看过博客      
+* 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
