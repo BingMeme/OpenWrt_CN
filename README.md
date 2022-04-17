@@ -89,9 +89,9 @@
 
 ### 自行定制固件      
 
-* [编译入门](./fishtool.md)             
-
-
+* [小白编译入门](./fishtool.md)     
+* [成神之路：佐大OpenWrt开发培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)          
+         
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
 ### passwall相关        
