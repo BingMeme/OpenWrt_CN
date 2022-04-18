@@ -272,14 +272,21 @@ git pull
 
 ——佐须之男               
 
+## 友链       
+
+* [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)      
+* [笔记](https://qinqinleee.github.io/Note/)         
+
+![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)            
+
 ## About   
 
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)         
-                           
-![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)                
+                              
 
-## 友链 
-* [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)      
-* [笔记](https://qinqinleee.github.io/Note/)                   
+
+    
+
+
 
