@@ -284,9 +284,12 @@ git pull
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)         
                               
+## Sponsor      
 
+![0](https://user-images.githubusercontent.com/73426989/163773066-8950a201-652d-42f4-a751-74f7c188b59c.png)          
+![1](https://user-images.githubusercontent.com/73426989/163773092-1d587efd-ab3e-4a08-9d89-752b6379d161.png)         
+![2](https://user-images.githubusercontent.com/73426989/163773114-143876ba-e89e-4fba-9f7f-1c4a8a5220f3.png)         
+![3](https://user-images.githubusercontent.com/73426989/163773145-8ef6d06f-19fd-4f12-bcef-d0c51fb8ec5b.png)       
 
-    
-
-
-
+OpenWrt_CN 感谢GitHub和微软对OpenWrt开源项目的贡献，希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。              
+![4](https://user-images.githubusercontent.com/73426989/163774309-0aff146e-e3ee-484d-9860-cd0e5cddbbec.png)                       
