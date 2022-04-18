@@ -294,5 +294,3 @@ git pull
 OpenWrt_CN 感谢GitHub和微软对OpenWrt开源项目的贡献，希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。               
 ![1](https://user-images.githubusercontent.com/73426989/163782390-91644301-3ddc-4f46-af03-e8e7a7fd40a4.png)      
 
-<video autoplay="" webkit-playsinline="webkit-playsinline" playsinline="" controlslist="nodownload" x-webkit-airplay="allow" x5-playsinline="" preload="true" id="h5player_player" style="width: 100%; height: 400; left: 0px; top: 0px; background-color: rgb(0, 0, 0); display: block; visibility: visible; cursor: auto;" src="blob:https://tv.cctv.com/33408def-a25d-42e6-bbb2-d13c64a68a26"></video>    
-
