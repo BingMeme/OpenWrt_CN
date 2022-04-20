@@ -290,12 +290,20 @@ git pull
                               
 ## Sponsor      
 
-![0](https://user-images.githubusercontent.com/73426989/163773066-8950a201-652d-42f4-a751-74f7c188b59c.png)          
-![1](https://user-images.githubusercontent.com/73426989/163773092-1d587efd-ab3e-4a08-9d89-752b6379d161.png)         
-![2](https://user-images.githubusercontent.com/73426989/163773114-143876ba-e89e-4fba-9f7f-1c4a8a5220f3.png)         
-![3](https://user-images.githubusercontent.com/73426989/163773145-8ef6d06f-19fd-4f12-bcef-d0c51fb8ec5b.png)       
+![0](https://user-images.githubusercontent.com/73426989/163773066-8950a201-652d-42f4-a751-74f7c188b59c.png)                
 
-OpenWrt_CN 感谢GitHub和微软对OpenWrt开源项目的贡献，希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。               
-![1](https://user-images.githubusercontent.com/73426989/163782390-91644301-3ddc-4f46-af03-e8e7a7fd40a4.png)      
+--------------------------------------------------------------------       
+![1](https://user-images.githubusercontent.com/73426989/163773092-1d587efd-ab3e-4a08-9d89-752b6379d161.png)            
 
+--------------------------------------------------------------------      
+![2](https://user-images.githubusercontent.com/73426989/163773114-143876ba-e89e-4fba-9f7f-1c4a8a5220f3.png)           
+
+--------------------------------------------------------------------         
+![3](https://user-images.githubusercontent.com/73426989/163773145-8ef6d06f-19fd-4f12-bcef-d0c51fb8ec5b.png)      
+
+--------------------------------------------------------------------             
+希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。             
+![1](https://user-images.githubusercontent.com/73426989/163782390-91644301-3ddc-4f46-af03-e8e7a7fd40a4.png)          
+
+--------------------------------------------------------------------          
 [台海局势直播](https://tv.cctv.com/live/cctv13/)                  
