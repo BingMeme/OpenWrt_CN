@@ -1,3 +1,4 @@
+微信内扫描下方赞赏码：      
 ![love](https://user-images.githubusercontent.com/73426989/164273315-4140401d-a86e-4bda-b4b3-6ddfd92de71c.jpg)             
 以后不会再为提成而推广什么东西了。            
 只专心为订阅的网友们编译分发镜像/撰写常见问题的教程博文。       
