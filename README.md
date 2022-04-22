@@ -279,7 +279,8 @@ git pull
 ## 友链       
 
 * [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)      
-* [笔记](https://qinqinleee.github.io/Note/)         
+* [笔记](https://qinqinleee.github.io/Note/)      
+* [青阳魂的博客](https://williamchan.me/)          
 
 ![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)            
 
