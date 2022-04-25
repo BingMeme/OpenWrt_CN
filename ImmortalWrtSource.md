@@ -7,7 +7,7 @@
 * ImmortalWrt官方发行固件 出厂预置集成的插件几乎很少，主要是希望你自行使用 系统-软件包(或自行终端opkg) 自行安装软件源插件(内置的软件源是ImmortalWrt官方对齐发行，几乎不会翻车，放心安装)           
 
 
-# ImmortalWrt官方发行软件源         
+# ImmortalWrt官方发行软件源（小白别碰）         
 
 `此软件源 不保证 兼容 非ImmortalWrt官方发行固件`           
 * 主站 [downloads.immortalwrt.org](https://downloads.immortalwrt.org)  
