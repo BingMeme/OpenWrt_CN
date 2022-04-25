@@ -138,7 +138,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 其他插件相关         
 
 * [禁止一些自己用不上插件开机自启](./tips/noAutoLauch.md)
-* [ImmortalWrt 系统-软件包 安装插件](./JBipk.md)          
+* [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
 * [关闭openwrt的ipv6](./tips/OFFipv6.md)
 * [填入字符后保存应用为何不生效](./tips/saveFail.md)
 * [后台LuCI页面显示异常报错](./tips/luciViewBUG.md)
