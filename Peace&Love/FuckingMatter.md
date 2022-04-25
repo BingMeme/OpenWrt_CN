@@ -9,10 +9,15 @@
 openwrt本土化源码才是中国区用户应该赞助打赏的，编译的人有千千万，但是他们全都可以被取代，你愿意你也能很快学会干这简单的事情，没有大神开发者们维护源码，他们啥也不是。             
 
 解决缺钱：         
-* [捐助ImmortalWrt项目](https://github.com/1715173329)                                   
-点击如下图圈起来的位置的链接去捐助         
+* [1.捐助ImmortalWrt项目（这个项目更迫切需要捐助）](https://github.com/1715173329)                                   
+访问上方链接后，点击如下图圈起来的位置的链接去捐助         
 ![图片](https://user-images.githubusercontent.com/73426989/165130064-f21e2cfa-e855-4f00-919a-168326a25049.png)          
-* [捐助coolsnowwolf/lede项目](https://github.com/coolsnowwolf/lede#%E6%8D%90%E8%B4%88)            
+* [2.捐助coolsnowwolf/lede项目](https://github.com/coolsnowwolf/lede#%E6%8D%90%E8%B4%88)         
+访问上方链接后，点击如下图圈起来的位置的链接去捐助 
+![图片](https://user-images.githubusercontent.com/73426989/165131002-7fde9515-774e-44fd-9f7a-976a43db13f0.png)      
+
+
+
 
 
 
