@@ -21,4 +21,4 @@
 <script async src="https://telegram.org/js/telegram-widget.js?19" data-telegram-post="ctcgfw_openwrt_discuss/461245" data-width="100%"></script>              
 
 
-[返回主页](./README.md)           
+[返回主页](../README.md)           
