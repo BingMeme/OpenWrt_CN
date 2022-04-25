@@ -21,6 +21,18 @@
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>              
 
+## ImmortalWrt专区
+
+支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
+
+* [ImmortalWrt](./release/ImmortalWrtSource.md)                  
+
+## 天灵专区      
+
+支持：热门 硬路由/rockchip......（QSDK360v6/ax6/r1sH5 ......）            
+
+* [天灵的个人频道](https://t.me/nanopi_r2s)             
+
 ## OpenWrt_Pro专区    
 
 支持：x64 * doornet1 * doornet2 * neo3 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * g4c * orangepi-r1-plus * orangepi-r1-plus-lts          
@@ -39,18 +51,6 @@
 
 * [OpenWrt_Air](https://t.me/openwrt_a)                  
 
-## ImmortalWrt专区
-
-支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
-
-* [ImmortalWrt](./release/ImmortalWrtSource.md)                  
-
-## 天灵专区      
-
-支持：热门 硬路由/rockchip......（QSDK360v6/ax6/r1sH5 ......）            
-
-* [天灵的个人频道](https://t.me/nanopi_r2s)             
- 
 ## eSir专区
 
 支持：x64等（经典高大全等）         
