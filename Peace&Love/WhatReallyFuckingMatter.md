@@ -1,5 +1,7 @@
 # 真正能帮助到中国区openwrt本土化可持续的 捐助/学习 处整理               
 
+[“开源”一直存在“行乞问题”](https://weibo.com/ttarticle/p/show?id=2309404761731334537337)         
+
 一个残酷的事实是，很多普通用户并不知道自己用上的固件经过流程：本土化源码的开发-编译。              
 最上游的openwrt/openwrt并没有针对中国区用户的需求和设备特点重点优化，[immortalwrt社区](https://github.com/immortalwrt) 和 [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) 贡献了几乎全部针对中国区用户的优化。            
 且openwrt本土化的主要开发者们并没有推销“机场”获得本可能获得的大量资金，缺钱买硬盘/具体型号设备...也缺更多热情的程序员人力参与开发提交Pr。            
