@@ -15,7 +15,8 @@ openwrt本土化源码才是中国区用户应该赞助打赏的，编译的人�
 
 * [2.捐助coolsnowwolf/lede项目](https://github.com/coolsnowwolf/lede#%E6%8D%90%E8%B4%88)               
 访问上方链接后，点击如下图圈起来的位置的链接去捐助：                 
-![图片](https://user-images.githubusercontent.com/73426989/165131002-7fde9515-774e-44fd-9f7a-976a43db13f0.png)                  
+![图片](https://user-images.githubusercontent.com/73426989/165131442-420c7ed1-b453-4b05-87f5-8313640d56eb.png)               
+
 
 
 
