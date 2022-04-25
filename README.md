@@ -77,13 +77,13 @@
 
 ### 固件全新安装升级、不保留配置上传升级相关
 
+* [不保留配置上传升级固件](./tips/Upgrade.md)     
 * [openwrt固件常见文件格式的选择](./tips/CHOOSE.md)      
+* [直写固件到U盘/硬盘/TF卡软件：Rufus](https://github.com/pbatard/rufus/releases) （msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
+* [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)        
+* [虚拟机镜像转换starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)         
 * [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
-* [ipk离线安装的两种常用方法](./tips/JBipk2.md)
-* [不保留配置上传升级固件](./tips/Upgrade.md) 
-* [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases) （msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
-* [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)   
-* [虚拟机镜像转换starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)                    
+* [ipk离线安装的两种常用方法](./tips/JBipk2.md)                     
 * [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)                      
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1K4411b7Tt&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
