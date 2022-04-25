@@ -77,8 +77,9 @@
 
 ### 固件全新安装升级、不保留配置上传升级相关
 
-* [openwrt固件常见文件格式的选择](./tips/CHOOSE.md)       
-* [ipk离线安装的两种常用方法](./JBipk2.md)
+* [openwrt固件常见文件格式的选择](./tips/CHOOSE.md)      
+* [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
+* [ipk离线安装的两种常用方法](./tips/JBipk2.md)
 * [不保留配置上传升级固件](./tips/Upgrade.md) 
 * [直写固件到U盘或硬盘或TF卡的最强唯一推荐软件：Rufus](https://github.com/pbatard/rufus/releases) （msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
 * [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)   
@@ -138,7 +139,6 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 其他插件相关         
 
 * [禁止一些自己用不上插件开机自启](./tips/noAutoLauch.md)
-* [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
 * [关闭openwrt的ipv6](./tips/OFFipv6.md)
 * [填入字符后保存应用为何不生效](./tips/saveFail.md)
 * [后台LuCI页面显示异常报错](./tips/luciViewBUG.md)
