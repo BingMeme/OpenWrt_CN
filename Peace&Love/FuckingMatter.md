@@ -18,10 +18,15 @@ openwrt本土化源码才是中国区用户应该赞助打赏的，编译的人�
 访问上方链接后，点击如下图圈起来的位置的链接去捐助：                 
 ![图片](https://user-images.githubusercontent.com/73426989/165131442-420c7ed1-b453-4b05-87f5-8313640d56eb.png)               
 
+**奉劝周边靠着openwrt翻墙主题赚的盆满钵满的 youtuber、AFFman、博客主、卖定制固件的......有点逼数，定期捐款给以上你使用的源码**               
+
 ## 解决缺人：             
 
 愿意贡献自己空闲时间参与本土化openwrt开发的，可以先系统地学习openwrt开发，这里推荐 [佐大的培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)    
 希望系统学习完课程的大神们空闲时能尽一份力Pr。                
+
+
+
 
 
 
