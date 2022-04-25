@@ -8,7 +8,8 @@
 ——Lean            
 openwrt本土化源码才是中国区用户应该赞助打赏的，编译的人有千千万，但是他们全都可以被取代，你愿意你也能很快学会干这简单的事情，没有大神开发者们维护源码，他们啥也不是。             
 
-解决缺钱：         
+## 解决缺钱： 
+
 * [1.捐助ImmortalWrt项目（这个项目更迫切需要捐助）](https://github.com/1715173329)                                   
 访问上方链接后，点击如下图圈起来的位置的链接去捐助：         
 ![图片](https://user-images.githubusercontent.com/73426989/165130064-f21e2cfa-e855-4f00-919a-168326a25049.png)      
@@ -16,6 +17,15 @@ openwrt本土化源码才是中国区用户应该赞助打赏的，编译的人�
 * [2.捐助coolsnowwolf/lede项目](https://github.com/coolsnowwolf/lede#%E6%8D%90%E8%B4%88)               
 访问上方链接后，点击如下图圈起来的位置的链接去捐助：                 
 ![图片](https://user-images.githubusercontent.com/73426989/165131442-420c7ed1-b453-4b05-87f5-8313640d56eb.png)               
+
+## 解决缺人：             
+
+愿意贡献自己空闲时间参与本土化openwrt开发的，可以先系统地学习openwrt开发，这里推荐 [佐大的培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)    
+希望系统学习完课程的大神们空闲时能尽一份力Pr。                
+
+
+
+
 
 
 
