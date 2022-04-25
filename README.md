@@ -43,7 +43,7 @@
 
 支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
 
-* [ImmortalWrt](./ImmortalWrtSource.md)                  
+* [ImmortalWrt](./release/ImmortalWrtSource.md)                  
 
 ## 天灵专区      
 
