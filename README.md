@@ -302,7 +302,10 @@ git pull
 ![2](https://user-images.githubusercontent.com/73426989/163773114-143876ba-e89e-4fba-9f7f-1c4a8a5220f3.png)           
 
 --------------------------------------------------------------------         
-![3](https://user-images.githubusercontent.com/73426989/163773145-8ef6d06f-19fd-4f12-bcef-d0c51fb8ec5b.png)       
+![3](https://user-images.githubusercontent.com/73426989/163773145-8ef6d06f-19fd-4f12-bcef-d0c51fb8ec5b.png)        
+
+--------------------------------------------------------------------              
+![1](https://user-images.githubusercontent.com/73426989/165312821-5cae866e-e458-45f7-aae8-a07e4b98fa4d.png)             
 
 ## Wish         
 
