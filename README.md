@@ -6,7 +6,7 @@
 
 ![杨幂](https://user-images.githubusercontent.com/73426989/162729078-87457e78-4d94-4b79-b6f5-8e8e961a76dd.gif)         
 
-* 作者在 `2022.04.25` 来查看过博客      
+* 作者在 `2022.04.27` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
@@ -39,19 +39,22 @@
 
 支持：x64 * doornet1 * doornet2 * neo3 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * g4c * orangepi-r1-plus * orangepi-r1-plus-lts          
 
-* [OpenWrt_Pro](https://t.me/openwrt_p)         
+* [OpenWrt_Pro](https://t.me/openwrt_p)    
+* [OpenWrt_Pro 备用地址（暂不提供更新日志及注意事项提醒）](https://github.com/BingMeme/OpenWrt_Pro/tags)               
       
 ## OpenWrt_mini专区             
 
 支持：x64 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * orangepi-r1-plus * orangepi-r1-plus-lts          
 
-* [OpenWrt_mini](https://t.me/openwrt_m)                 
+* [OpenWrt_mini](https://t.me/openwrt_m)          
+* [OpenWrt_mini 备用地址（暂不提供更新日志及注意事项提醒）](https://github.com/BingMeme/OpenWrt_mini/tags)                
 
 ## OpenWrt_Air专区        
 
 支持：ax6 * ax3600 * ac2100 * k2p * 新3 * acrh17 * 竞斗云2
 
-* [OpenWrt_Air](https://t.me/openwrt_a)                  
+* [OpenWrt_Air](https://t.me/openwrt_a)         
+* [OpenWrt_Air 备用地址（暂不提供更新日志及注意事项提醒）](https://github.com/BingMeme/OpenWrt_Air/tags)                 
 
 ## eSir专区
 
