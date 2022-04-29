@@ -4,7 +4,9 @@
 
 ![杨幂维密](https://user-images.githubusercontent.com/73426989/165453335-2ab633c8-318c-4b08-b761-d468a57ae993.gif)         
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=324962&auto=1&height=66"></iframe>          
+<audio id="audio" loop="" autoplay="" controls="" preload="none">
+      <source id="mp3" src="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9oOGNzLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL29kNTc3XzM2NWExX21lL0VZXzhtOGw4Y001QWdaWGpqS0VMUmJFQmJQWkNid2swaEFPSTVQVkM5QVhaVEE_ZT1JTkJEZGI.mp3">
+</audio>    
 
 * 作者在 `2022.04.27` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
