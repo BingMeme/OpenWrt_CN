@@ -1,4 +1,5 @@
-# OpenWrt_简中     
+# OpenWrt_简中            
+![Logo](https://user-images.githubusercontent.com/73426989/166009477-8003aade-91d2-426d-b366-95d4b4c19eee.png)            
 
 [【放首行这里说明什么？说明这是你必须要清楚的事情，点我！】](./Peace&Love/WhatReallyFuckingMatter.md)                   
 
