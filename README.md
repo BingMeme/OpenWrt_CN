@@ -295,7 +295,8 @@ git pull
 ## About   
 
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
-* [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)         
+* [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)      
+* [【打赏本博客】](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)                 
                               
 ## Sponsor      
 
