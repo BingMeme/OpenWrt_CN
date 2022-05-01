@@ -40,10 +40,9 @@
 
 ## OpenWrt_Pro专区    
 
-支持：x64 * doornet1 * doornet2 * neo3 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * g4c * orangepi-r1-plus * orangepi-r1-plus-lts          
-
 * [OpenWrt_Pro](https://t.me/openwrt_p)    
-* [OpenWrt_Pro 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)               
+* [OpenWrt_Pro 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)     
+[OpenWrt_Pro支持的设备一览](https://github.com/BingMeme/OpenWrt_Pro/blob/main/README.md)      
       
 ## OpenWrt_mini专区             
 
