@@ -40,22 +40,22 @@
 
 ## OpenWrt_Pro专区    
 [【OpenWrt_Pro支持的设备一览】](https://github.com/BingMeme/OpenWrt_Pro/blob/main/README.md)  
-* [OpenWrt_Pro](https://t.me/openwrt_p)    
-* [OpenWrt_Pro 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)         
+* [OpenWrt_Pro发布主地址](https://t.me/openwrt_p)    
+* [OpenWrt_Pro发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)         
     
 ## OpenWrt_mini专区             
 
 支持：x64|r2c/r2s/r4s/rockpro64/rock-pi-4/orangepi-r1-plus/orangepi-r1-plus-lts|neo2/neo-plus2/r1s-h5/h3-cc-h5/olinuxino/pine64-plus/sopine-baseboard/orangepi-pc2/orangepi-zero-plus|rpi-4          
 
-* [OpenWrt_mini](https://t.me/openwrt_m)          
-* [OpenWrt_mini 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_mini/tags)                
+* [OpenWrt_mini发布主地址](https://t.me/openwrt_m)          
+* [OpenWrt_mini发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_mini/tags)                
 
 ## OpenWrt_Air专区        
 
 支持：ax6 * ax3600 * ac2100 * k2p * 新3 * acrh17 * 竞斗云2
 
-* [OpenWrt_Air](https://t.me/openwrt_a)         
-* [OpenWrt_Air 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Air/tags)                 
+* [OpenWrt_Air发布主地址](https://t.me/openwrt_a)         
+* [OpenWrt_Air发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Air/tags)                 
 
 ## eSir专区
 
