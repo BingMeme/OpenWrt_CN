@@ -43,21 +43,21 @@
 支持：x64 * doornet1 * doornet2 * neo3 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * g4c * orangepi-r1-plus * orangepi-r1-plus-lts          
 
 * [OpenWrt_Pro](https://t.me/openwrt_p)    
-* [OpenWrt_Pro 备用地址（暂不提供更新日志及注意事项提醒）](https://github.com/BingMeme/OpenWrt_Pro/tags)               
+* [OpenWrt_Pro 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)               
       
 ## OpenWrt_mini专区             
 
 支持：x64 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * orangepi-r1-plus * orangepi-r1-plus-lts          
 
 * [OpenWrt_mini](https://t.me/openwrt_m)          
-* [OpenWrt_mini 备用地址（暂不提供更新日志及注意事项提醒）](https://github.com/BingMeme/OpenWrt_mini/tags)                
+* [OpenWrt_mini 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_mini/tags)                
 
 ## OpenWrt_Air专区        
 
 支持：ax6 * ax3600 * ac2100 * k2p * 新3 * acrh17 * 竞斗云2
 
 * [OpenWrt_Air](https://t.me/openwrt_a)         
-* [OpenWrt_Air 备用地址（暂不提供更新日志及注意事项提醒）](https://github.com/BingMeme/OpenWrt_Air/tags)                 
+* [OpenWrt_Air 备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Air/tags)                 
 
 ## eSir专区
 
