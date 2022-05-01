@@ -1,5 +1,7 @@
 # 固件格式
 
+* sysupgrade：从本来就是openwrt的固件基础上升级，或者无刷机引导限制的机器上直接刷入此格式文件
+* factory：用于从设备的原厂固件刷入factory，再刷入breed之类不死使用
 * ext4 ：可以扩展磁盘空间大小
 * squashfs ：可以使用 重置功能（恢复出厂设置）
 * efi : efi引导，非BIOS引导（优先使用efi固件，无法启动时再换无efi固件）   
