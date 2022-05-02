@@ -10,7 +10,7 @@
 
 上传好图片或视频后就行了。                    
 
+[素材库](https://github.com/BingMeme/OpenWrt_CN/tree/main/material)        
+
 
 [返回主页](../README.md)             
-
-
