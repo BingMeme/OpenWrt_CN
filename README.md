@@ -9,7 +9,7 @@
       <source id="mp3" src="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9oOGNzLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL29kNTc3XzM2NWExX21lL0VZXzhtOGw4Y001QWdaWGpqS0VMUmJFQmJQWkNid2swaEFPSTVQVkM5QVhaVEE_ZT1XaHRlclM.mp3">
 </audio>    
 
-* 作者在 `2022.04.27` 来查看过博客      
+* 作者在 `2022.05.05` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
@@ -291,7 +291,7 @@ git pull
 
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)      
-* [【打赏本博客】](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)                 
+* [打赏本博客](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)                 
                               
 ## Sponsor      
 
