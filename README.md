@@ -19,30 +19,39 @@
 ![杨幂维密](https://user-images.githubusercontent.com/73426989/165453335-2ab633c8-318c-4b08-b761-d468a57ae993.gif)         
 <audio id="audio" loop="" autoplay="" controls="" preload="none">
       <source id="mp3" src="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9oOGNzLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9nL3BlcnNvbmFsL29kNTc3XzM2NWExX21lL0VZXzhtOGw4Y001QWdaWGpqS0VMUmJFQmJQWkNid2swaEFPSTVQVkM5QVhaVEE_ZT1XaHRlclM.mp3">
-</audio>     
+</audio>
+
 ## ImmortalWrt专区
 支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
-* [ImmortalWrt](./release/ImmortalWrtSource.md)                  
+* [ImmortalWrt](./release/ImmortalWrtSource.md)
+                 
 ## 天灵专区      
 支持：热门 硬路由/rockchip......（QSDK360v6/ax6/r1sH5 ......）            
-* [天灵的个人频道](https://t.me/nanopi_r2s)             
+* [天灵的个人频道](https://t.me/nanopi_r2s)
+            
 ## OpenWrt_Pro专区    
 [【OpenWrt_Pro支持的设备一览】](https://github.com/BingMeme/OpenWrt_Pro/blob/main/README.md)  
 * [OpenWrt_Pro发布主地址](https://t.me/openwrt_p)    
-* [OpenWrt_Pro发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)          
+* [OpenWrt_Pro发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)
+         
 ## OpenWrt_mini专区             
 [【OpenWrt_mini支持的设备一览】](https://github.com/BingMeme/OpenWrt_mini/blob/main/README.md)     
 * [OpenWrt_mini发布主地址](https://t.me/openwrt_m)          
-* [OpenWrt_mini发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_mini/tags)                
+* [OpenWrt_mini发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_mini/tags)
+               
 ## OpenWrt_Air专区        
 [【OpenWrt_Air支持的设备一览】](https://github.com/BingMeme/OpenWrt_Air/blob/main/README.md)  
 * [OpenWrt_Air发布主地址](https://t.me/openwrt_a)         
-* [OpenWrt_Air发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Air/tags)                 
+* [OpenWrt_Air发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Air/tags)
+                
 ## eSir专区
 支持：x64等（经典高大全等）         
-* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)                          
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>              
-## 配套工具区    
+* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)
+                         
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
+
+## 配套工具区   
+
 ### 容器相关
 * [PVE7.1LXC增强内核](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EZ0rQSb3wuBJjKbgwLNbY_cBVtlXcEOWgaH3QmvgAqkMUg?e=EhxvyP) （加入OpenWrt需要的Fullcone、Flow加速内核、TPROXY，OpenWrt可以以LXC容器的方式直接运行在PVE里面免虚拟化层速度飞快，打开I225 B3的5.17内核的4队列RSS支持和ZeorCopy加速，部署LXC的OpenWrt教程可以参考[这篇文章](https://post.smzdm.com/p/a5kqz7v3/)）               
 * [PVE 7.0-9、10、11、13](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2) （显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度）            
@@ -51,8 +60,10 @@
 * [ESXi on Arm](https://flings.vmware.com/esxi-arm-edition)    
 * [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)     
 * [cn_windows_7_professional_with_sp2_x64_dvd_2020_01_14](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EauYlQmCtWFJsa7eU7k6IogBWUW9eq7vtkHn0YRU_Ic2WA?e=hkIeVL)        
-——Lean的QQ群：297253733            
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>   
+——Lean的QQ群：297253733      
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
+
 ### 固件全新安装升级、不保留配置上传升级相关
 * [不保留配置上传升级固件](./tips/Upgrade.md)     
 * [openwrt固件常见文件格式的选择](./tips/CHOOSE.md)      
@@ -61,12 +72,16 @@
 * [虚拟机镜像转换starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)         
 * [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
 * [ipk离线安装的两种常用方法](./tips/JBipk2.md)                     
-* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)                      
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1XU4y1P7Lb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>   
-## 教程区        
+* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)         
+                    
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1XU4y1P7Lb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
+
+## 教程区       
+
 ### 自行定制固件      
 * [小白编译入门](./DIY/fishtool.md)     
-* [成神之路：佐大OpenWrt开发培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)          
+* [成神之路：佐大OpenWrt开发培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)       
+         
 ### passwall相关        
 * [passwall的流程](https://github.com/xiaorouji/openwrt-passwall/discussions/1506#discussioncomment-1751550)
 * [关于passwall的DNS问题](./tips/passwallDNS.md)     
@@ -94,7 +109,8 @@ http://192.168.5.1/cgi-bin/luci/admin/services/passwall/show
 * passwall芝麻开门命令（如果需要开门）：                      
 ```       
 touch /etc/config/passwall_show        
-```              
+```      
+
 ### ssrp相关      
 * [ssrp的分流如何开启](./tips/ssrpFenLiu.md)    
 * [ssrp的翻墙线路莫名其妙变动](./tips/ssrpXJBbian.md)         
@@ -102,7 +118,8 @@ touch /etc/config/passwall_show
 ```
 echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```    
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1K4411b7Tt&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1K4411b7Tt&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+
 ### 其他插件相关         
 * [禁止一些自己用不上插件开机自启](./tips/noAutoLauch.md)
 * [关闭openwrt的ipv6](./tips/OFFipv6.md)
@@ -122,8 +139,10 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [家里自建一个ssr服务端](./tips/ssrMDBServer.md)       
 * [WAN口丢失后重建](./tips/CreWAN.md)      
 * [WAN口灯不亮/WAN口无网络连接](./tips/WANfail.md)      
-* [自定义登陆界面背景](./tips/argonPic.md)       
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>         
+* [自定义登陆界面背景](./tips/argonPic.md)             
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
+
 ## 其他区 
 * [清理windows系统下DNS缓存](./tips/clearDNS.md)  
 * [路由下主机数据传输速率查看](./tips/HostSpeedMonitor.md)     
@@ -137,7 +156,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [查询IP地址](http://www.ip111.cn)     
 * [ip反查绑定过的域名](https://tools.ipip.net/ipdomain.php)      
 * [GitHub各项服务状态](https://www.githubstatus.com)     
-* [主流网站的可用状态](https://downdetector.com)          
+* [主流网站的可用状态](https://downdetector.com)        
+         
 ## 常用命令、操作区
 * 完全删除lede文件                
 ```
@@ -190,7 +210,8 @@ Ctrl+H
 ```
 git reset --hard
 git pull
-```             
+```            
+
 ## 启示录区                     
 * [万兆无线路由器，真的能跑万兆无线网吗？](https://sspai.com/post/71581)                   
 ——少数派                    
@@ -221,17 +242,22 @@ git pull
   每个人的心中都藏着一位梦中情人，无数的夜晚我们还会因彼此未能成就姻缘而黯然泪下。现在看来，那只是徒增伤悲罢了，因为一旦分离已注定此生再无交集，既无此生何谈来世。人生就向一辆永不停歇的火车，既然已在岔口分离，那彼次只会渐行渐远。她喜欢的是你，是当年的你。你喜欢的她，是当年的她。事过境迁，彼此早已不在是当年的自己。"两情若是久长时，又岂在朝朝暮暮"在我看来，描述的是亲情，而非爱情，似乎很多人都误解了，包括我自己。           
   以前的我，表现地与世无争。现在看来，只是懦弱和无能的表现而已，并没有高尚到哪里去。在人的生存空间越来越受挤压的当下，你自己不去拼命争取没有人会帮你保留空间。这个世界就是那么残酷，你的敌人在宣告胜利的同时，还不忘给你滋上一泡尿。更令人痛心的是，提出滋你一身的人，恰好是你当年的"梦中情人"。人性这东西，是你一辈子都看不明白、琢磨不透的。           
   以前的我，遇到挫折和失败就会陷入过度自责中、反省当初的自己。现在看来，挫折和失败的隐患早在你出生时就已埋下，你所遭遇的挫折和失败只是爆发后的结果。你若不从根本上拔除身上的祸根，未来的你还会遭遇同样的惨剧。你还会因为不善于交际而吃人事的亏，你还会因为不善于搭讪而缺女人缘，你还会因为不懂人情世故而遭人排斥，悲剧还会一次次重演。*           
-——佐须之男
+——佐须之男       
+
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1sT4y1j7m2&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+
 ## 友链       
 * [青阳魂的博客](https://williamchan.me/)      
 * [沁沁笔记](https://qinqinleee.github.io/Note/)      
-* [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)          
-![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)            
+* [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)              
+    
+![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)      
+
 ## About   
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)      
-* [打赏本博客](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)                                            
+* [打赏本博客](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)        
+                                           
 ## Sponsor      
 ![0](https://user-images.githubusercontent.com/73426989/163773066-8950a201-652d-42f4-a751-74f7c188b59c.png)                
 
@@ -245,7 +271,8 @@ git pull
 ![3](https://user-images.githubusercontent.com/73426989/163773145-8ef6d06f-19fd-4f12-bcef-d0c51fb8ec5b.png)        
 
 --------------------------------------------------------------------              
-![1](https://user-images.githubusercontent.com/73426989/165312821-5cae866e-e458-45f7-aae8-a07e4b98fa4d.png)             
+![1](https://user-images.githubusercontent.com/73426989/165312821-5cae866e-e458-45f7-aae8-a07e4b98fa4d.png)        
+
 ## Wish         
 ![1](https://user-images.githubusercontent.com/73426989/163782390-91644301-3ddc-4f46-af03-e8e7a7fd40a4.png)        
 希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。                     
