@@ -1,7 +1,7 @@
 # OpenWrt_简中            
 ![Logo](https://user-images.githubusercontent.com/73426989/166009477-8003aade-91d2-426d-b366-95d4b4c19eee.png)            
 
-[【放首行这里说明什么？说明这是你必须要清楚的事情，点我！】](./Peace&Love/WhatReallyFuckingMatter.md)                   
+[放首行这里说明什么？说明这是你必须要清楚的事情，点我！](./Peace&Love/WhatReallyFuckingMatter.md)                   
 
 ![杨幂维密](https://user-images.githubusercontent.com/73426989/165453335-2ab633c8-318c-4b08-b761-d468a57ae993.gif)         
 
