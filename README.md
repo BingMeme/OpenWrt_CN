@@ -81,7 +81,7 @@
 ### 自行定制固件      
 * [小白编译入门](./DIY/fishtool.md)     
 * [成神之路：佐大OpenWrt开发培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)       
-         
+    
 ### passwall相关        
 * [passwall的流程](https://github.com/xiaorouji/openwrt-passwall/discussions/1506#discussioncomment-1751550)
 * [关于passwall的DNS问题](./tips/passwallDNS.md)     
