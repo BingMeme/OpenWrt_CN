@@ -26,26 +26,26 @@
 * [ImmortalWrt](./release/ImmortalWrtSource.md)
                  
 ## 天灵专区      
-支持：热门 硬路由/rockchip......（QSDK360v6/ax6/r1sH5 ......）            
+支持：热门设备（QSDK 360v6/ax6...）            
 * [天灵的个人频道](https://t.me/nanopi_r2s)
             
 ## OpenWrt_Pro专区    
-[【OpenWrt_Pro支持的设备一览】](https://github.com/BingMeme/OpenWrt_Pro/blob/main/README.md)  
+OpenWrt_Pro支持的设备[一览](https://github.com/BingMeme/OpenWrt_Pro/blob/main/README.md)  
 * [OpenWrt_Pro发布主地址](https://t.me/openwrt_p)    
 * [OpenWrt_Pro发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Pro/tags)
          
 ## OpenWrt_mini专区             
-[【OpenWrt_mini支持的设备一览】](https://github.com/BingMeme/OpenWrt_mini/blob/main/README.md)     
+OpenWrt_mini支持的设备[一览](https://github.com/BingMeme/OpenWrt_mini/blob/main/README.md)     
 * [OpenWrt_mini发布主地址](https://t.me/openwrt_m)          
 * [OpenWrt_mini发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_mini/tags)
                
 ## OpenWrt_Air专区        
-[【OpenWrt_Air支持的设备一览】](https://github.com/BingMeme/OpenWrt_Air/blob/main/README.md)  
+OpenWrt_Air支持的设备[一览](https://github.com/BingMeme/OpenWrt_Air/blob/main/README.md)  
 * [OpenWrt_Air发布主地址](https://t.me/openwrt_a)         
 * [OpenWrt_Air发布备用地址（主地址哪天不能用时再启用）](https://github.com/BingMeme/OpenWrt_Air/tags)
                 
 ## eSir专区
-支持：x64等（经典高大全等）         
+支持：x64等（高大全等）         
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)
                          
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> 
@@ -66,10 +66,10 @@
 
 ### 固件全新安装升级、不保留配置上传升级相关
 * [不保留配置上传升级固件](./tips/Upgrade.md)     
-* [openwrt固件常见文件格式的选择](./tips/CHOOSE.md)      
-* [直写固件到U盘/硬盘/TF卡软件：Rufus](https://github.com/pbatard/rufus/releases) （msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
-* [PE环境下写入固件到硬盘兼容性最好的v1.2版本DiskImg](./tips/PEwirteIMG.md)        
-* [虚拟机镜像转换starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe)         
+* [固件格式说明](./tips/CHOOSE.md) （openwrt固件常见文件格式的选择）     
+* [Rufus](https://github.com/pbatard/rufus/releases) （直写固件到U盘/硬盘/TF卡软件，msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
+* [DiskImg](./tips/PEwirteIMG.md)（PE环境下写入固件到硬盘兼容性最好的v1.2版本）        
+* [starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe) （虚拟机镜像转换）        
 * [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
 * [ipk离线安装的两种常用方法](./tips/JBipk2.md)                     
 * [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)         
@@ -80,8 +80,8 @@
 
 ### 自行定制固件      
 * [小白编译入门](./DIY/fishtool.md)     
-* [成神之路：佐大OpenWrt开发培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)       
-    
+* [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发培训班）      
+
 ### passwall相关        
 * [passwall的流程](https://github.com/xiaorouji/openwrt-passwall/discussions/1506#discussioncomment-1751550)
 * [关于passwall的DNS问题](./tips/passwallDNS.md)     
