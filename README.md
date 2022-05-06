@@ -158,7 +158,11 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)        
          
-## 常用命令、操作区
+## 常用命令、操作区         
+* openwrt关机
+```   
+poweroff 
+```        
 * 完全删除lede文件                
 ```
 rm -rf lede
