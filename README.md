@@ -1,7 +1,7 @@
 # OpenWrt_简中            
 ![Logo](https://user-images.githubusercontent.com/73426989/166009477-8003aade-91d2-426d-b366-95d4b4c19eee.png)       
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)                   
-* 作者在 `2022.05.06` 来查看过博客      
+* 作者在 `2022.05.08` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
@@ -113,7 +113,8 @@ touch /etc/config/passwall_show
 
 ### ssrp相关      
 * [ssrp的分流如何开启](./tips/ssrpFenLiu.md)    
-* [ssrp的翻墙线路莫名其妙变动](./tips/ssrpXJBbian.md)         
+* [ssrp的翻墙线路莫名其妙变动](./tips/ssrpXJBbian.md)   
+* [ssrp莫名代理本不该走代理的 淘宝、百度 ...](./tips/proxyWrong.md)      
 * ssrp芝麻开门命令（如果需要开门）：                   
 ```
 echo 0xDEADBEEF > /etc/config/google_fu_mode
