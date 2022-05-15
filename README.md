@@ -256,8 +256,6 @@ git pull
 * [青阳魂的博客](https://williamchan.me/)      
 * [沁沁笔记](https://qinqinleee.github.io/Note/)      
 * [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)              
-    
-![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)      
 
 ## About   
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
@@ -284,3 +282,5 @@ git pull
 希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。     
 * [台海局势直播by谷歌新闻搜索引擎](https://www.google.com/search?q=%E5%8F%B0%E6%B9%BE%2B%E4%B8%AD%E5%9B%BD&tbm=nws&source=lnt&tbs=sbd:1&sa=X&dpr=1)  
 * [台海局势直播by百度资讯搜索引擎](https://www.baidu.com/s?tn=news&rtt=4&bsst=1&cl=2&wd=%E5%8F%B0%E6%B9%BE&medium=0)                   
+
+![1](https://user-images.githubusercontent.com/73426989/160430260-5f0c051a-9446-4791-8a83-7db401307a62.jpg)      
