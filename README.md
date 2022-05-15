@@ -149,6 +149,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [路由下主机数据传输速率查看](./tips/HostSpeedMonitor.md)     
 * [系统资源消耗实时监控查看](./tips/CPUandRAMmonitor.md)     
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)      
+* [检测ax6/ax3600的真实时钟频率](./sh/clockHz/ax6&3600clockHz.md)
 * [单线程测速](http://speed.cloudflare.com)       
 * [日志粘贴分享网站避免直发群内刷屏](https://paste.debian.net/)
 * [banner生成器](http://www.network-science.de/ascii)        
