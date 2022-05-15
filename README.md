@@ -73,14 +73,18 @@ OpenWrt_Air支持的设备 [预览](https://github.com/BingMeme/OpenWrt_Air/blob
 * [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
 * [ipk离线安装的两种常用方法](./tips/JBipk2.md)                     
 * [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)         
-                    
+
+## DIY定制固件区
+
+### 编译
+* [小白编译入门](./DIY/fishtool.md)          
+
+### 开发   
+* [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
+
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1XU4y1P7Lb&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
 ## 教程区       
-
-### 自行定制固件      
-* [小白编译入门](./DIY/fishtool.md)     
-* [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发培训班）      
 
 ### passwall相关        
 * [passwall的流程](https://github.com/xiaorouji/openwrt-passwall/discussions/1506#discussioncomment-1751550)
