@@ -156,7 +156,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
 ## 其他区 
-* [清理windows系统下DNS缓存](./tips/clearDNS.md)  
+* [清理windows系统下DNS缓存](./tips/clearDNS.md)        
+* [关闭浏览器的QUIC协议](./tips/killQUIC.md)
 * [路由下主机数据传输速率查看](./tips/HostSpeedMonitor.md)     
 * [系统资源消耗实时监控查看](./tips/CPUandRAMmonitor.md)     
 * [检测ax6/ax3600的真实时钟频率](./sh/clockHz/ax6&3600clockHz.md)         
