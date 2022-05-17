@@ -1,13 +1,18 @@
 # OpenWrt_简中            
 ![Logo](https://user-images.githubusercontent.com/73426989/166009477-8003aade-91d2-426d-b366-95d4b4c19eee.png)       
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)                   
-* 作者在 `2022.05.08` 来查看过博客      
+* 作者在 `2022.05.17` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
-* 也欢迎您将此博客地址分享给任何有需要的人
-* 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）      
+* 也欢迎您将此博客地址分享给任何有需要的人          
+* [网速测速](http://test.ustc.edu.cn/)
+* [网速单线程测速](http://speed.cloudflare.com)     
+* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)        
+* [搬瓦工提供IP连通性测试](https://ping.pe)   
+* [国内各省市对某网站ping检测](http://ping.chinaz.com)             
+* [查询IP地址](http://www.ip111.cn)     
 * [telegram官方下载地址](https://telegram.org/apps)    
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
@@ -152,17 +157,13 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [清理windows系统下DNS缓存](./tips/clearDNS.md)  
 * [路由下主机数据传输速率查看](./tips/HostSpeedMonitor.md)     
 * [系统资源消耗实时监控查看](./tips/CPUandRAMmonitor.md)     
-* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)      
-* [检测ax6/ax3600的真实时钟频率](./sh/clockHz/ax6&3600clockHz.md)
-* [单线程测速](http://speed.cloudflare.com)       
+* [检测ax6/ax3600的真实时钟频率](./sh/clockHz/ax6&3600clockHz.md)         
 * [日志粘贴分享网站避免直发群内刷屏](https://paste.debian.net/)
 * [banner生成器](http://www.network-science.de/ascii)        
-* [搬瓦工提供IP连通性测试](https://ping.pe)   
-* [国内各省市对某网站ping检测](http://ping.chinaz.com)             
-* [查询IP地址](http://www.ip111.cn)     
 * [ip反查绑定过的域名](https://tools.ipip.net/ipdomain.php)      
 * [GitHub各项服务状态](https://www.githubstatus.com)     
-* [主流网站的可用状态](https://downdetector.com)        
+* [主流网站的可用状态](https://downdetector.com)      
+* 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）       
          
 ## 常用命令、操作区         
 * openwrt关机（再开机需要拔插电源线）
