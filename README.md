@@ -101,7 +101,8 @@ OpenWrt_Air支持的设备 [预览](https://github.com/BingMeme/OpenWrt_Air/blob
 * [passwall指定特定网站走特定节点](./tips/passwallURLfenliu.md)      
 * [passwall指定特定网站走特定节点初次无法使用问题](./tips/passwallURLfenliuFail.md)     
 * [BT下载不走代理、翻墙线路极限速率测试、守护进程](./tips/passwallAdvancedSetting.md)                   
-* [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)     
+* [帮助完善passwall的手动添加规则](./tips/helpPasswallProxyFile.md)    
+* 分流配置中的`黑洞`意思是把它的DNS解析请求都返回错误的本机地址，就是主动墙掉这个服务的意思  
 * 可以使用负载均衡同样地实现故障切换功能
 * 恢复默认配置方法，地址栏输入例：            
 ```
