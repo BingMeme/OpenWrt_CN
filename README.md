@@ -7,8 +7,9 @@
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
 * 也欢迎您将此博客地址分享给任何有需要的人          
+* [梯子 网速测速](https://www.speedtest.net/) （请注意先确保此网站被规则代理了）
 * [网速测速](http://test.ustc.edu.cn/)
-* [网速单线程测速](http://speed.cloudflare.com)     
+* [单线程 网速测速](http://speed.cloudflare.com)     
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)        
 * [搬瓦工提供IP连通性测试](https://ping.pe)   
 * [国内各省市对某网站ping检测](http://ping.chinaz.com)             
