@@ -262,9 +262,7 @@ git pull
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1sT4y1j7m2&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
 
 ## 友链       
-* [青阳魂的博客](https://williamchan.me/)      
-* [沁沁笔记](https://qinqinleee.github.io/Note/)      
-* [电报资讯](https://t.me/joinchat/xU9Tn2B_sy05NmFl)              
+* [青阳魂的博客](https://williamchan.me/)               
 
 ## About   
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
