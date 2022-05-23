@@ -1,7 +1,7 @@
 # OpenWrt_简中            
 ![1](https://user-images.githubusercontent.com/73426989/169662479-e251475e-eafb-4010-9481-1d3678233303.png)            
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)                   
-* 作者在 `2022.05.17` 来查看过博客      
+* 作者在 `2022.05.23` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
@@ -141,9 +141,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [NAT路由类型检测工具NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)                            
 * [手动挂载移动硬盘/U盘](./tips/ManullyGuaZai.md)          
 * [动态DNS中配置阿里云DDNS](./tips/ddns.md)
-* [看一下是否需要打开外网访问路由后台](./tips/webadmin.md)          
-* [在windows电脑上安装emby服务端+百度网盘 的自建影音库方案](./tips/embyINwin.md)
-* [在openwrt上使用Samba协议打造家庭影音库](./tips/sambaNB.md) 
+* [看一下是否需要打开外网访问路由后台](./tips/webadmin.md)           
 * [最强文件分享服务器FileBrowser](./tips/FileBrowserNB.md)
 * [挂在路由上的百度网盘客户端](./tips/BaiDuWangPan.md)             
 * [家里自建一个ssr服务端](./tips/ssrMDBServer.md)       
@@ -164,7 +162,10 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [ip反查绑定过的域名](https://tools.ipip.net/ipdomain.php)      
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)      
-* 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）       
+* 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）    
+* [Ubuntu18桌面版影音服务器](./tips/Ubuntu18Desk.md)
+* [在windows电脑上安装emby服务端+百度网盘 的自建影音库方案](./tips/embyINwin.md)
+* [在openwrt上使用Samba协议打造家庭影音库](./tips/sambaNB.md)      
          
 ## 常用命令、操作区         
 * openwrt关机（再开机需要拔插电源线）
