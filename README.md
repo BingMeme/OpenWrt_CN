@@ -147,7 +147,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [家里自建一个ssr服务端](./tips/ssrMDBServer.md)       
 * [WAN口丢失后重建](./tips/CreWAN.md)      
 * [WAN口灯不亮/WAN口无网络连接](./tips/WANfail.md)      
-* [自定义登陆界面背景](./tips/argonPic.md)             
+* [自定义登陆界面背景](./tips/argonPic.md)      
+* [在openwrt上使用Samba协议打造家庭影音库](./tips/sambaNB.md)             
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
@@ -163,9 +164,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [GitHub各项服务状态](https://www.githubstatus.com)     
 * [主流网站的可用状态](https://downdetector.com)      
 * 强制转换浏览器页面暗黑Edge拓展插件 [DarkReader](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc) （人道主义提示，请在访问此类网站时暂时手动关闭此插件：考试、银行、前端调试、素材库...）    
-* [Ubuntu18桌面版影音服务器](./tips/Ubuntu18Desk.md)
 * [在windows电脑上安装emby服务端+百度网盘 的自建影音库方案](./tips/embyINwin.md)
-* [在openwrt上使用Samba协议打造家庭影音库](./tips/sambaNB.md)      
+* [Ubuntu18桌面版影音服务器](./tips/Ubuntu18Desk.md)
          
 ## 常用命令、操作区         
 * openwrt关机（再开机需要拔插电源线）
