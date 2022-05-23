@@ -17,7 +17,7 @@
 先把 [硬盘格式化成ext4](https://blog.csdn.net/weixin_42129680/article/details/112977063) (如果你觉得有难度，也可以在windows电脑上用分区助手格式化成一个ext4分区)。     
 然后设置每次开机自动挂载此硬盘到系统的某一目录使用（必须挂载，否则其他软件无法正常读写此硬盘里的文件），挂载参见 [这里](https://blog.csdn.net/dscn15848078969/article/details/120699888) 
 
-4. 接下来就是安装百度网盘linux版了，百度网盘官方客户端支持部分linux系统，比如国产的统信UOS、Ubuntu18desktop，访问百度网盘官方下载地址 [](https://pan.baidu.com/download) ,点击到
+4. 接下来就是安装百度网盘linux版了，百度网盘官方客户端支持部分linux系统，比如国产的统信UOS、Ubuntu18desktop，访问百度网盘官方下载地址 [这里](https://pan.baidu.com/download) ,点击到
 linux分类，选择deb格式的文件下载到Ubuntu18里（建议在ubuntu18的浏览器访问此网站下载文件，省了小白又不懂赋予执行权限...）      
 ![图片](https://user-images.githubusercontent.com/73426989/169829371-ab337006-0df6-4241-94d9-88e9290a49e9.png)        
 下载好后直接在ubuntu里双击deb包，就开始安装了，像安卓一样，装完点全部应用里的百度网盘图标就能用了。进百度网盘后别忘了设置下载目录为你刚才挂载的硬盘目录。比如是 /mnt/d1 什么的地方。 
