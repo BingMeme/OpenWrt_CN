@@ -1,6 +1,9 @@
-# OpenWrt_简中            
-![1](https://user-images.githubusercontent.com/73426989/169662479-e251475e-eafb-4010-9481-1d3678233303.png)            
-[**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)                   
+# OpenWrt_简中     
+
+![logo](https://user-images.githubusercontent.com/73426989/169903835-86f6e264-7cb5-4480-bcf5-d1633fd66291.png)         
+
+[**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)            
+
 * 作者在 `2022.05.23` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
