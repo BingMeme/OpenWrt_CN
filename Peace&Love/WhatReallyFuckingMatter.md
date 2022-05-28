@@ -26,7 +26,7 @@ openwrt本土化源码才是中国区用户应该赞助的！
 ![图片](https://user-images.githubusercontent.com/73426989/165131442-420c7ed1-b453-4b05-87f5-8313640d56eb.png)                         
 
 * [3.捐助xiaorouji/passwall项目](https://github.com/xiaorouji/xiaorouji/blob/main/README.md)       
-支持多种加密货币捐助，如果您是passwall的重度用户且会使用加密货币支付，欢迎捐助小肉鸡大神（Lienol是初代passwall库所有者，后来passwall仓库移交给了xiaorouji，孜孜不倦维护至今） 
+支持多种加密货币捐助，如果您是passwall的重度用户且会使用加密货币支付，欢迎捐助小肉鸡大神（Lienol是passwall库的初始所有者，后来passwall仓库移交给了xiaorouji，孜孜不倦维护至今） 
 
 ## 解决缺人：             
 
