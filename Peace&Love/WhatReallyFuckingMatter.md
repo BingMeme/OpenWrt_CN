@@ -17,7 +17,7 @@ openwrt本土化源码才是中国区用户应该赞助的！
 
 ## 解决缺钱： 
 
-* [1.捐助ImmortalWrt项目（这个项目更迫切需要捐助）](https://github.com/1715173329)                                   
+* [1.捐助ImmortalWrt项目](https://github.com/1715173329)                                   
 访问上方链接后，点击如下图圈起来的位置的链接去捐助：         
 ![图片](https://user-images.githubusercontent.com/73426989/165130064-f21e2cfa-e855-4f00-919a-168326a25049.png)      
 
