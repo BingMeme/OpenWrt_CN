@@ -4,7 +4,7 @@
 
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)            
 
-* 作者在 `2022.05.23` 来查看过博客      
+* 作者在 `2022.05.29` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
@@ -135,7 +135,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ### 其他插件相关         
 * [禁止一些自己用不上插件开机自启](./tips/noAutoLauch.md)
-* [关闭openwrt的ipv6](./tips/OFFipv6.md)
+* [关闭openwrt的ipv6](./tips/OFFipv6.md)          
+* [tcpdump抓包](./tips/tcpdump.md)     
 * [填入字符后保存应用为何不生效](./tips/saveFail.md)
 * [后台LuCI页面显示异常报错](./tips/luciViewBUG.md)
 * [网关代理"旁路由"相关](./tips/PangLuYouGNM.md)       
