@@ -263,7 +263,8 @@ git pull
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1sT4y1j7m2&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
 
 ## 友链       
-* [青阳魂的博客](https://williamchan.me/)               
+* [青阳魂的博客](https://williamchan.me/)     
+* [Padavan路由固件](https://opt.cn2qq.com/)          
 
 ## About   
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
