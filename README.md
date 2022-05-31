@@ -25,8 +25,6 @@
 * [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
 * [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                 
 
-![杨幂维密](https://user-images.githubusercontent.com/73426989/165453335-2ab633c8-318c-4b08-b761-d468a57ae993.gif)         
-
 ## ImmortalWrt专区
 支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
 * [ImmortalWrt](./release/ImmortalWrtSource.md)
