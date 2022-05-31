@@ -6,7 +6,7 @@
 3. 查看安装版本命令：`tcpdump --help`有显示就证明安装成功了
 
 ## 使用tcpdump
-具体用法请查看本文参考的原文 [博客](https://www.linuxprobe.com/linux-tcpdump.html)          
+具体用法请查看本文参考的原文 [博客](https://www.linuxidc.com/Linux/2018-07/153287.htm)          
 已经利用Wayback Machine网站备份过这个博客页面了，原文如果提桶跑路请到Wayback Machine网站查看备份。     
 
 
