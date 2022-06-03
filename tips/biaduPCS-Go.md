@@ -1,4 +1,4 @@
-# Go环境运行的纯命令行交互百度网盘第三方客户端程序：BaiduPCS-Go
+# 纯命令行交互百度网盘第三方客户端程序：BaiduPCS-Go
 
 前言：         
 此程序仅推荐满足以下场景使用         
@@ -9,7 +9,7 @@
 首先贴出这个伟大的项目的地址 [https://github.com/qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) ，稍有Linux基础的或者就是win用户，您可以免看下方的小白
 教程，直接看项目readme开始欢快跑起来程序就行了。                  
 
-接下来我们主要给小白演示Linux内核（带有Go运行环境）的系统如何跑起来这个度盘客户端。              
+接下来我们主要给小白演示Linux内核的系统如何跑起来这个度盘客户端。              
 这个项目的开发大大已经编译分发了可执行程序，适用win linux类等系统：[https://github.com/qjfoidnh/BaiduPCS-Go/releases](https://github.com/qjfoidnh/BaiduPCS-Go/releases)  
 我们只需要拖进自己的系统开始执行就行了。           
 比如你是x64CPU的ubuntu64位或openwrt64位系统，那么就该拉取BaiduPCS-Go-v3.8.7-linux-amd64.zip。         
@@ -54,4 +54,4 @@
 更多具体支持命令请看原项目的readme，并且后期程序升级后可能支持的命令写法有变动，所以一定以原项目说明文档为准                   
 
 
-[返回主页](../README.md)       
+[返回主页](../README.md)      
