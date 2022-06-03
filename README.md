@@ -4,7 +4,7 @@
 
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)            
 
-* 作者在 `2022.05.29` 来查看过博客      
+* 作者在 `2022.06.03` 来查看过博客      
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
@@ -147,7 +147,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [动态DNS中配置阿里云DDNS](./tips/ddns.md)
 * [看一下是否需要打开外网访问路由后台](./tips/webadmin.md)           
 * [最强文件分享服务器FileBrowser](./tips/FileBrowserNB.md)         
-* [Go环境运行的纯命令行交互百度网盘第三方客户端程序](./tips/biaduPCS-Go.md)
+* [纯命令行交互百度网盘第三方客户端程序](./tips/biaduPCS-Go.md)
 * [挂在路由上的百度网盘客户端](./tips/BaiDuWangPan.md) (baidupcs-web开发姐姐已经跑路了)             
 * [家里自建一个ssr服务端](./tips/ssrMDBServer.md)       
 * [WAN口丢失后重建](./tips/CreWAN.md)      
