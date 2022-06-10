@@ -19,15 +19,17 @@ openwrt本土化源码才是中国区用户应该赞助的！
 ## 解决缺钱： 
 
 * [1.捐助ImmortalWrt项目](https://github.com/1715173329)                                   
-访问上方链接后，点击如下图圈起来的位置的链接去捐助：         
+如果您是 immortalwrt源码发行固件 的重度用户访问上方链接后，点击如下图圈起来的位置的链接去捐助：         
 ![图片](https://user-images.githubusercontent.com/73426989/165130064-f21e2cfa-e855-4f00-919a-168326a25049.png)      
 
 * [2.捐助coolsnowwolf/lede、fw876/helloworld(ssrp)项目](https://github.com/coolsnowwolf/lede#%E6%8D%90%E8%B4%88)               
-访问上方链接后，如下图的位置再下拉看到二维码去捐助：                 
-![图片](https://user-images.githubusercontent.com/73426989/165131442-420c7ed1-b453-4b05-87f5-8313640d56eb.png)                         
+如果您是 lede源码发行固件、ssrp 的重度用户，欢迎捐赠。             
 
 * [3.捐助xiaorouji/passwall系列项目](https://github.com/xiaorouji)       
-如果您是passwall/passwall2的重度用户且会使用加密货币支付，欢迎捐助小肉鸡大神（Lienol是passwall库的初始所有者，后来Li大把passwall仓库移交给了xiaorouji孜孜不倦维护至今） 
+如果您是 passwall、passwall2 的重度用户，欢迎捐助。     
+
+* [4.捐助vernesong/OpenClash项目](https://github.com/vernesong/OpenClash#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1)        
+如果您是 openclash 的重度用户，欢迎捐赠。    
 
 ## 解决缺人：             
 
