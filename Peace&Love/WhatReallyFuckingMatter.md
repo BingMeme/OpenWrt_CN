@@ -25,15 +25,18 @@ openwrt本土化源码才是中国区用户应该赞助的！
 * [2.捐助coolsnowwolf/lede、fw876/helloworld(ssrp)项目](https://github.com/coolsnowwolf/lede#%E6%8D%90%E8%B4%88)               
 如果您是 lede源码发行固件、ssrp 的重度用户，欢迎捐赠。             
 
-* [3.捐助xiaorouji/passwall系列项目](https://github.com/xiaorouji)       
+### 具体翻墙插件最上游捐助：         
+
+* [1.捐助xiaorouji/passwall系列项目](https://github.com/xiaorouji)       
 如果您是 passwall、passwall2 的重度用户，欢迎捐助。     
 
-* [4.捐助vernesong/OpenClash项目](https://github.com/vernesong/OpenClash#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1)        
+* [2.捐助vernesong/OpenClash项目](https://github.com/vernesong/OpenClash#%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1)        
 如果您是 openclash 的重度用户，欢迎捐赠。    
 
 ## 解决缺人：             
 
-愿意贡献自己空闲时间参与本土化openwrt开发的，可以先系统地学习openwrt开发，这里推荐 [佐大的培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)    
+愿意贡献自己空闲时间参与本土化openwrt开发的，可以先系统地学习openwrt开发。     
+这里推荐 [佐大的培训班](https://forgotfun.org/2018/04/openwrt-training-2018.html)                
 希望系统学习完课程的大神们空闲时能尽一份力Pr。                
 
 
