@@ -175,6 +175,10 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```   
 poweroff 
 ```        
+* 忽略依赖报错强行安装某ipk             
+```
+opkg install --nodeps luci-app-autoreboot
+```
 * 完全删除lede文件                
 ```
 rm -rf lede
