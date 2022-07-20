@@ -44,8 +44,7 @@ OpenWrt_mini支持的设备 [预览](https://github.com/BingMeme/OpenWrt_mini/bl
 * [OpenWrt_mini发布主地址](https://t.me/openwrt_m)          
 * [OpenWrt_mini发布备用地址](https://github.com/BingMeme/OpenWrt_mini/tags) （主地址哪天不能用时再启用）          
 
-## eSir专区
-支持：x64等（高大全等）         
+## eSir专区        
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)               
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>     
