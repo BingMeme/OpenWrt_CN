@@ -26,15 +26,12 @@
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15R4y1t7L9&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>          
 
 ## Lean专区        
-支持：ax6/ax3600/ac2100/k2p/新3/acrh17/竞斗云2/r5s 等等
 * [Lean的官方发布](./release/Lean.md)
 
-## ImmortalWrt专区
-支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
+## ImmortalWrt专区      
 * [ImmortalWrt](./release/ImmortalWrtSource.md)
                  
-## 天灵专区      
-支持：热门设备（QSDK 360v6/ax6...）            
+## 天灵专区                 
 * [天灵的个人频道](https://t.me/nanopi_r2s)
             
 ## OpenWrt_Pro专区    
