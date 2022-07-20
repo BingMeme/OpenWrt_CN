@@ -3,7 +3,7 @@
 [固件格式说明](https://bingmeme.github.io/OpenWrt_CN/tips/CHOOSE.html)         
 
 支持设备：        
-* x64/r5s/R66S/R68S/R68K
+* [x64/r5s/R66S/R68S/R68K](https://github.com/coolsnowwolf/lede/releases)
 * ax6/ax3600/ac2100/k2p/新3/acrh17/竞斗云2
 
 
