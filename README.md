@@ -25,6 +25,10 @@
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15R4y1t7L9&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>          
 
+## Lean专区        
+支持：ax6/ax3600/ac2100/k2p/新3/acrh17/竞斗云2/r5s 等等
+* [Lean的官方发布](./release/Lean.md)
+
 ## ImmortalWrt专区
 支持：几乎所有主流设备（最精简固件基础上自由安装ipk）          
 * [ImmortalWrt](./release/ImmortalWrtSource.md)
@@ -41,13 +45,8 @@ OpenWrt_Pro支持的设备 [预览](https://github.com/BingMeme/OpenWrt_Pro/blob
 ## OpenWrt_mini专区             
 OpenWrt_mini支持的设备 [预览](https://github.com/BingMeme/OpenWrt_mini/blob/main/README.md)     
 * [OpenWrt_mini发布主地址](https://t.me/openwrt_m)          
-* [OpenWrt_mini发布备用地址](https://github.com/BingMeme/OpenWrt_mini/tags) （主地址哪天不能用时再启用）
-               
-## OpenWrt_Air专区        
-OpenWrt_Air支持的设备 [预览](https://github.com/BingMeme/OpenWrt_Air/blob/main/README.md)  
-* [OpenWrt_Air发布主地址](https://t.me/openwrt_a)         
-* [OpenWrt_Air发布备用地址](https://github.com/BingMeme/OpenWrt_Air/tags) （主地址哪天不能用时再启用）
-                
+* [OpenWrt_mini发布备用地址](https://github.com/BingMeme/OpenWrt_mini/tags) （主地址哪天不能用时再启用）          
+
 ## eSir专区
 支持：x64等（高大全等）         
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)               
