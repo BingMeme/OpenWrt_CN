@@ -36,13 +36,13 @@
             
 ## Pro专区    
 Pro支持的设备 [预览](https://github.com/BingMeme/OpenWrt_Pro/blob/main/README.md)  
-* [OpenWrt_Pro发布主地址](https://t.me/openwrt_p)    
-* [OpenWrt_Pro发布备用地址](https://github.com/BingMeme/OpenWrt_Pro/tags) （主地址哪天不能用时再启用）
+* [Pro发布主地址](https://t.me/openwrt_p)    
+* [Pro发布备用地址](https://github.com/BingMeme/OpenWrt_Pro/tags) （主地址哪天不能用时再启用）
          
 ## mini专区             
 mini支持的设备 [预览](https://github.com/BingMeme/OpenWrt_mini/blob/main/README.md)     
-* [OpenWrt_mini发布主地址](https://t.me/openwrt_m)          
-* [OpenWrt_mini发布备用地址](https://github.com/BingMeme/OpenWrt_mini/tags) （主地址哪天不能用时再启用）          
+* [mini发布主地址](https://t.me/openwrt_m)          
+* [mini发布备用地址](https://github.com/BingMeme/OpenWrt_mini/tags) （主地址哪天不能用时再启用）          
 
 ## eSir专区        
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)               
