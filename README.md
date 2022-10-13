@@ -83,7 +83,7 @@ mini支持的设备 [预览](https://github.com/BingMeme/OpenWrt_mini/blob/main/
 ### 开发   
 * [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1NZ4y1V76D&cid=252377107&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1NZ4y1V76D&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
 ## 教程区       
 
