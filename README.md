@@ -49,15 +49,8 @@
 
 ## 配套工具区   
 
-### 容器相关
-* [PVE7.1LXC增强内核](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EZ0rQSb3wuBJjKbgwLNbY_cBVtlXcEOWgaH3QmvgAqkMUg?e=EhxvyP) （加入OpenWrt需要的Fullcone、Flow加速内核、TPROXY，OpenWrt可以以LXC容器的方式直接运行在PVE里面免虚拟化层速度飞快，打开I225 B3的5.17内核的4队列RSS支持和ZeorCopy加速，部署LXC的OpenWrt教程可以参考[这篇文章](https://post.smzdm.com/p/a5kqz7v3/)）               
-* [PVE 7.0-9、10、11、13](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2) （显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度）            
-* [ESXi-7.0U3C-19193900-SYSIN-NUC-USB-NVME-SLIC_2.6](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EdDTukXIT2REh9w_Yww2_ywBD9wfafsxI5wuhG_3n9VzGA?e=Ptxhoo) （支持8125/nvme/i225）      
-* [ESXi-6.7.0-Update3B-2.5Gbps-customized](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EfQnLOjegrVOpm22T0Sm42MB7E3uObuLg9Y1LOJXi_3-yw?e=Avy8Cn)      
+### 容器相关  
 * [ESXi on Arm](https://flings.vmware.com/esxi-arm-edition)    
-* [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)     
-* [cn_windows_7_professional_with_sp2_x64_dvd_2020_01_14](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EauYlQmCtWFJsa7eU7k6IogBWUW9eq7vtkHn0YRU_Ic2WA?e=hkIeVL)        
-——Lean的QQ群：297253733      
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
 
