@@ -37,11 +37,9 @@
 * [天灵的个人频道](https://t.me/nanopi_r2s)
             
 ## Pro专区（基于lede）    
-Pro支持的设备 [预览](https://github.com/BingMeme/OpenWrt_Pro/blob/main/README.md)  
 * [Pro发布主地址](https://t.me/openwrt_p)    
          
 ## mini专区（基于immortalwrt）             
-mini支持的设备 [预览](https://github.com/BingMeme/OpenWrt_mini/blob/main/README.md)     
 * [mini发布主地址](https://t.me/openwrt_m)          
 
 ## eSir专区        
