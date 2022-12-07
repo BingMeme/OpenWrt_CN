@@ -44,16 +44,9 @@
 ## eSir专区        
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)               
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>     
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
-## 配套工具区   
-
-### 容器相关  
-* [ESXi on Arm](https://flings.vmware.com/esxi-arm-edition)    
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
-
-### 固件全新安装升级、不保留配置上传升级相关
+## 固件全新安装升级、不保留配置上传升级相关
 * [不保留配置上传升级固件](./tips/Upgrade.md)     
 * [固件格式说明](./tips/CHOOSE.md) （openwrt固件常见文件格式的选择）     
 * [Rufus](https://github.com/pbatard/rufus/releases) （直写固件到U盘/硬盘/TF卡软件，msata接口的硬盘可以购买转接器转接成usb后连电脑上写入固件）       
@@ -63,6 +56,8 @@
 * [ipk离线安装的两种常用方法](./tips/JBipk2.md)                     
 * [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)         
 
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+
 ## DIY定制固件区
 
 ### 编译
@@ -71,7 +66,7 @@
 ### 开发   
 * [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1NZ4y1V76D&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1NZ4y1V76D&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>                  
 
 ## 教程区       
 
