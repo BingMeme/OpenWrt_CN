@@ -22,9 +22,7 @@
 * [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)        
 * [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
 * [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
-* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                 
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV15R4y1t7L9&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>          
+* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                      
 
 ## Lean专区        
 * [Lean的官方发布](./release/Lean.md)
