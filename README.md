@@ -31,16 +31,13 @@
 * [ImmortalWrt](./release/ImmortalWrtSource.md)
                  
 ## 天灵专区                 
-* [天灵的个人频道](https://t.me/nanopi_r2s)
-            
-## Pro专区（基于lede）    
-* [Pro发布主地址](https://t.me/openwrt_p)    
-         
-## mini专区（基于immortalwrt）             
-* [mini发布主地址](https://t.me/openwrt_m)          
+* [天灵的个人频道](https://t.me/nanopi_r2s)  
 
 ## eSir专区        
-* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)               
+* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)        
+
+## OpenWrt_demo_x64（基于immortalwrt）             
+* [发布地址](https://t.me/openwrt_demo)        
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
