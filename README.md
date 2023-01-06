@@ -3,7 +3,24 @@
 ![logo](https://user-images.githubusercontent.com/73426989/169903835-86f6e264-7cb5-4480-bcf5-d1633fd66291.png)          
 
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)            
-  
+
+## Lean专区        
+* [Lean的官方发布](./release/Lean.md)
+
+## ImmortalWrt专区      
+* [ImmortalWrt](./release/ImmortalWrtSource.md)
+                 
+## 天灵专区                 
+* [天灵的个人频道](https://t.me/nanopi_r2s)  
+
+## eSir专区        
+* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)        
+
+## OpenWrt_demo_x64            
+* [地址](https://t.me/openwrt_demo)        
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
+
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
 * 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
@@ -23,23 +40,6 @@
 * [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
 * [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
 * [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                      
-
-## Lean专区        
-* [Lean的官方发布](./release/Lean.md)
-
-## ImmortalWrt专区      
-* [ImmortalWrt](./release/ImmortalWrtSource.md)
-                 
-## 天灵专区                 
-* [天灵的个人频道](https://t.me/nanopi_r2s)  
-
-## eSir专区        
-* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)        
-
-## OpenWrt_demo_x64            
-* [地址](https://t.me/openwrt_demo)        
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
 ## 固件全新安装升级、不保留配置上传升级相关
 * [不保留配置上传升级固件](./tips/Upgrade.md)     
