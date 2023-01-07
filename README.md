@@ -1,7 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">         
 
-![logo](https://user-images.githubusercontent.com/73426989/169903835-86f6e264-7cb5-4480-bcf5-d1633fd66291.png)          
-
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)            
 
 ## Lean专区        
