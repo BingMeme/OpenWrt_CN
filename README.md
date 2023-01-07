@@ -14,9 +14,6 @@
 ## eSir专区        
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh)        
 
-## OpenWrt_demo_x64            
-* [地址](https://t.me/openwrt_demo)        
-
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
 
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
@@ -54,7 +51,8 @@
 ## DIY定制固件区
 
 ### 编译
-* [小白编译入门](./DIY/fishtool.md)          
+* [小白编译入门](./DIY/fishtool.md)           
+* [OpenWrt_demo_x64](https://t.me/openwrt_demo)（仅作为基础编译示例，不建议需求广泛的用户使用）   
 
 ### 开发   
 * [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
