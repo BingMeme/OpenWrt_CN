@@ -1,7 +1,10 @@
-<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">         
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">       
+
 ![logo](./OpenWrt_Logo.svg)
 
-[**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)            
+[**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)           
+
+<iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>          
 
 ## Lean专区        
 * [Lean的官方发布](./release/Lean.md)
