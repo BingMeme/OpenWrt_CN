@@ -7,7 +7,7 @@
 <iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>          
 
 ## Lean专区        
-* [Lean的官方发布](./release/Lean.md)
+* [Lean的官方发布](https://github.com/coolsnowwolf/lede/releases)
 
 ## ImmortalWrt专区      
 * [ImmortalWrt](./release/ImmortalWrtSource.md)
