@@ -6,6 +6,15 @@
 
 <iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>          
 
+## DIY区
+
+### 编译
+* [小白编译入门](./DIY/fishtool.md)           
+* [OpenWrt_demo_x64](https://t.me/openwrt_demo)（仅作为基础编译示例，不建议需求广泛的用户使用）   
+
+### 开发   
+* [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
+
 ## Lean专区        
 * [Lean的官方发布](https://github.com/coolsnowwolf/lede/releases)
 
@@ -18,29 +27,6 @@
 ## eSir专区        
 * [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh) （高大全、佛跳墙...）        
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
-
-* 作者的 [微博账号](https://weibo.com/yangmiblog)          
-* 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
-* 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
-* 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
-* 也欢迎您将此博客地址分享给任何有需要的人          
-* [网速测速](http://test.ustc.edu.cn/)
-* [单线程网速测速](http://speed.cloudflare.com)        
-* [梯子网速测速](https://www.speedtest.net/) （请注意先确保此网站被规则代理了）   
-* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)        
-* [搬瓦工提供IP连通性测试](https://ping.pe)   
-* [国内各省市对某网站ping检测](http://ping.chinaz.com)             
-* [ip111查询IP地址](http://www.ip111.cn)    
-* [skk查询IP地址](https://ip.skk.moe/)
-* [telegram官方下载地址](https://telegram.org/apps)    
-* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
-* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
-* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)        
-* [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
-* [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
-* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                      
-
 ## 固件全新安装升级、不保留配置上传升级相关
 * [不保留配置上传升级固件](./tips/Upgrade.md)     
 * [固件格式说明](./tips/CHOOSE.md) （openwrt固件常见文件格式的选择）     
@@ -51,18 +37,29 @@
 * [ipk离线安装的两种常用方法](./tips/JBipk2.md)                     
 * [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)         
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
+ 
+* [网速测速](http://test.ustc.edu.cn/)
+* [单线程网速测速](http://speed.cloudflare.com)        
+* [梯子网速测速](https://www.speedtest.net/) （请注意先确保此网站被规则代理了）   
+* [几种加密算法下传输速度测试脚本](./sh/ss_test.md)        
+* [搬瓦工提供IP连通性测试](https://ping.pe)   
+* [国内各省市对某网站ping检测](http://ping.chinaz.com)             
+* [ip111查询IP地址](http://www.ip111.cn)    
+* [skk查询IP地址](https://ip.skk.moe/)             
 
-## DIY定制固件区
-
-### 编译
-* [小白编译入门](./DIY/fishtool.md)           
-* [OpenWrt_demo_x64](https://t.me/openwrt_demo)（仅作为基础编译示例，不建议需求广泛的用户使用）   
-
-### 开发   
-* [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
 
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1NZ4y1V76D&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>                  
+
+* [telegram官方下载地址](https://telegram.org/apps)    
+* [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
+* [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
+* [telegram汉化繁体(官方测试版本)](https://t.me/setlanguage/zh-hant-raw)        
+* [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
+* [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
+* [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                      
+
+<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
 
 ## 教程区       
 
@@ -104,6 +101,7 @@ touch /etc/config/passwall_show
 ```
 echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```    
+
 <iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1K4411b7Tt&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
 
 ### 其他插件相关         
@@ -249,7 +247,12 @@ git pull
 ## About   
 * [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)      
-* [打赏本博客](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)        
+* [打赏本博客](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)     
+* 作者的 [微博账号](https://weibo.com/yangmiblog)          
+* 提示：如果部分页面含有的教程图片较小无法正常阅读有效信息，请短暂放大网页即可(手机端两指拉伸/PC端Ctrl+滑轮上划)       
+* 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
+* 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
+* 也欢迎您将此博客地址分享给任何有需要的人            
                                            
 ## Sponsor      
 ![0](https://user-images.githubusercontent.com/73426989/163773066-8950a201-652d-42f4-a751-74f7c188b59c.png)                
