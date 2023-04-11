@@ -35,9 +35,7 @@
 * [starwindconverter](https://www.starwindsoftware.com/tmplink/starwindconverter.exe) （虚拟机镜像转换）        
 * [ImmortalWrt 系统-软件包 安装插件](./tips/JBipk.md)          
 * [ipk离线安装的两种常用方法](./tips/JBipk2.md)                     
-* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)         
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1954y1i7x7&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
+* [虚拟机+EFI固件安装问题汇总](./tips/VMandEFI.md)            
  
 * [网速测速](http://test.ustc.edu.cn/)
 * [单线程网速测速](http://speed.cloudflare.com)        
@@ -48,9 +46,6 @@
 * [ip111查询IP地址](http://www.ip111.cn)    
 * [skk查询IP地址](https://ip.skk.moe/)             
 
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1NZ4y1V76D&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>                  
-
 * [telegram官方下载地址](https://telegram.org/apps)    
 * [telegram汉化简体(推荐第三方)](https://t.me/setlanguage/classic-zh)     
 * [telegram汉化简体(官方测试版本)](https://t.me/setlanguage/zh-hans-raw)      
@@ -58,8 +53,6 @@
 * [禁止telegram垃圾广告群拉我入群](./tips/TGantiADpull.md)    
 * [为什么我无法telegram私聊和在公开群发言？？？](./tips/TGchatForbiden.md)
 * [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)                      
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1y5411J7HX&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
 
 ## 教程区       
 
@@ -102,8 +95,6 @@ touch /etc/config/passwall_show
 echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```    
 
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1K4411b7Tt&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
-
 ### 其他插件相关         
 * [禁止一些自己用不上插件开机自启](./tips/noAutoLauch.md)
 * [关闭openwrt的ipv6](./tips/OFFipv6.md)          
@@ -126,8 +117,6 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [WAN口灯不亮/WAN口无网络连接](./tips/WANfail.md)      
 * [自定义登陆界面背景](./tips/argonPic.md)      
 * [在openwrt上使用Samba协议打造家庭影音库](./tips/sambaNB.md)             
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1964y1h7JK&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>        
 
 ## 其他区 
 * [清理windows系统下DNS缓存](./tips/clearDNS.md)        
@@ -229,9 +218,7 @@ git pull
   每个人的心中都藏着一位梦中情人，无数的夜晚我们还会因彼此未能成就姻缘而黯然泪下。现在看来，那只是徒增伤悲罢了，因为一旦分离已注定此生再无交集，既无此生何谈来世。人生就向一辆永不停歇的火车，既然已在岔口分离，那彼次只会渐行渐远。她喜欢的是你，是当年的你。你喜欢的她，是当年的她。事过境迁，彼此早已不在是当年的自己。"两情若是久长时，又岂在朝朝暮暮"在我看来，描述的是亲情，而非爱情，似乎很多人都误解了，包括我自己。           
   以前的我，表现地与世无争。现在看来，只是懦弱和无能的表现而已，并没有高尚到哪里去。在人的生存空间越来越受挤压的当下，你自己不去拼命争取没有人会帮你保留空间。这个世界就是那么残酷，你的敌人在宣告胜利的同时，还不忘给你滋上一泡尿。更令人痛心的是，提出滋你一身的人，恰好是你当年的"梦中情人"。人性这东西，是你一辈子都看不明白、琢磨不透的。           
   以前的我，遇到挫折和失败就会陷入过度自责中、反省当初的自己。现在看来，挫折和失败的隐患早在你出生时就已埋下，你所遭遇的挫折和失败只是爆发后的结果。你若不从根本上拔除身上的祸根，未来的你还会遭遇同样的惨剧。你还会因为不善于交际而吃人事的亏，你还会因为不善于搭讪而缺女人缘，你还会因为不懂人情世故而遭人排斥，悲剧还会一次次重演。*           
-——佐须之男       
-
-<iframe width="100%" height="400" src="//player.bilibili.com/player.html?bvid=BV1sT4y1j7m2&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>      
+——佐须之男          
 
 ## 友链       
 * [青阳魂的博客](https://williamchan.me/)     
@@ -245,22 +232,7 @@ git pull
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
 * 也欢迎您将此博客地址分享给任何有需要的人            
-                                           
-## Sponsor      
-![0](https://user-images.githubusercontent.com/73426989/163773066-8950a201-652d-42f4-a751-74f7c188b59c.png)                
-
---------------------------------------------------------------------       
-![1](https://user-images.githubusercontent.com/73426989/163773092-1d587efd-ab3e-4a08-9d89-752b6379d161.png)            
-
---------------------------------------------------------------------      
-![2](https://user-images.githubusercontent.com/73426989/163773114-143876ba-e89e-4fba-9f7f-1c4a8a5220f3.png)           
-
---------------------------------------------------------------------         
-![3](https://user-images.githubusercontent.com/73426989/163773145-8ef6d06f-19fd-4f12-bcef-d0c51fb8ec5b.png)        
-
---------------------------------------------------------------------              
-![1](https://user-images.githubusercontent.com/73426989/165312821-5cae866e-e458-45f7-aae8-a07e4b98fa4d.png)        
-
+                                       
 ## Wish         
 ![1](https://user-images.githubusercontent.com/73426989/163782390-91644301-3ddc-4f46-af03-e8e7a7fd40a4.png)        
 希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。     
