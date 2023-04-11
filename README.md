@@ -245,7 +245,6 @@ git pull
 * [Padavan路由固件](https://opt.cn2qq.com/)          
 
 ## About   
-* [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
 * [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)      
 * [打赏本博客](https://github.com/BingMeme/OpenWrt_CN/blob/main/yaofan/cry.md)     
 * 作者的 [微博账号](https://weibo.com/yangmiblog)          
