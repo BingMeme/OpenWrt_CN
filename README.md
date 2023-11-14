@@ -4,7 +4,9 @@
 
 [**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)           
 
-<iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>          
+<iframe src="https://ip.skk.moe/simple" style="width: 100%; border: 0"></iframe>
+<!-- 暗色模式 -->
+<iframe src="https://ip.skk.moe/simple-dark" style="width: 100%; border: 0"></iframe>
 
 ## DIY区
 
