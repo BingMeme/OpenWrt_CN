@@ -232,9 +232,3 @@ git pull
 * 此博客的创建宗旨是：降低普通用户获取OpenWrt上游有价值信息的门槛        
 * 欢迎您在恩山论坛中留言帮顶 [此帖](https://www.right.com.cn/forum/thread-8215565-1-1.html)          
 * 也欢迎您将此博客地址分享给任何有需要的人            
-                                       
-## Wish         
-![1](https://user-images.githubusercontent.com/73426989/163782390-91644301-3ddc-4f46-af03-e8e7a7fd40a4.png)        
-希望未来台海局势巨变时微软不要封禁大陆开发者的GitHub账号，愿世界和平。     
-* [台海局势直播by谷歌新闻搜索引擎](https://www.google.com/search?q=%E5%8F%B0%E6%B9%BE%2B%E4%B8%AD%E5%9B%BD&tbm=nws&source=lnt&tbs=sbd:1&sa=X&dpr=1)  
-* [台海局势直播by百度资讯搜索引擎](https://www.baidu.com/s?tn=news&rtt=4&bsst=1&cl=2&wd=%E5%8F%B0%E6%B9%BE&medium=0)                   
