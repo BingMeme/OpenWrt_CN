@@ -2,7 +2,7 @@
 
 ![logo](./OpenWrt_Logo.svg)
 
-[**放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)           
+[**👉放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)           
 
 
 ## DIY区
